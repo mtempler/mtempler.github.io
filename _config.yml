@@ -43,13 +43,13 @@ jekyll-archives:
 #######################################################
 
 # This is your site title
-title: Sera - OnePage Multi-Purpose Theme
+title: Fides et Ratio - Scientific Human Learning and Intelligence
 # Website language
 lang: en-US
 # Header Title
-header-title: Create the <strong>Impossible</strong>
+header-title: Conform to Truth
 # Header Tagline
-headter-tagline: We Always
+headter-tagline: Scientific Human Learning and Intelligence
 
 ####################################
 ######   CTA Header Buttons   ######
@@ -129,7 +129,7 @@ mailchimp:
 #####################################
 #############   About   #############
 #####################################
-about-title: Welcome to Sera
+about-title: Welcome to Fides et Ratio
 about-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl.
 
 #####################################
@@ -143,17 +143,17 @@ features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. A
 #
 features:
   # Feature
-  - title: Clean & Unique Design
+  - title: Scientific Human Learning
     description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
     icon: pe-7s-vector
 
   # Feature
-  - title: Professional Support
+  - title: No Models, No Model Development, No Model Biases
     description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
     icon: pe-7s-help2
 
   # Feature
-  - title: Pixel Perfect
+  - title: Transparent, Accoutable, Inclusive
     description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
     icon: pe-7s-airplay
 
@@ -234,36 +234,35 @@ core-description: Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet 
 #
 core-features-left:
   # Feature
-  - name: Creative
+  - name: Scientific Human Intelligence (HI)
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
     icon: pe-7s-light
 
   # Feature
-  - name: Minimalism
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+  - name: Deductive
+    description: No Models, No Model Building, No Model Biases.
     icon: pe-7s-drop
 
   # Feature
-  - name: Clean Coding
+  - name: Universal, Vertical Independent
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
     icon: pe-7s-coffee
 
   # Feature
-  - name: Friendly
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-    icon: pe-7s-smile
+  - name: Generalizes Statistics to Probability Theory 
+    description: Removes invalid statistical assumptions
 
 #
 # Core Features Right
 #
 core-features-right:
   # Feature
-  - name: Branding
+  - name: Transparent and Accountable
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
     icon: pe-7s-wine
 
   # Feature
-  - name: Web Design
+  - name: Inclusion and Access
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
     icon: pe-7s-monitor
 
