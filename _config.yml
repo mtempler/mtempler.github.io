@@ -131,17 +131,17 @@ features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. A
 #
 features:
   # Feature
-  - title: Scientific Human Learning
+  - title: Scientific Measurements
     description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
     icon: pe-7s-vector
 
   # Feature
-  - title: No Models, No Model Development, No Model Biases
-    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+  - title: Transparent
+    description: No Models, No Model Development Lifecycle, No Model Biases
     icon: pe-7s-help2
 
   # Feature
-  - title: Transparent, Accoutable, Inclusive
+  - title: Accoutable, Inclusive
     description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
     icon: pe-7s-airplay
 
