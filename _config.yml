@@ -43,13 +43,13 @@ jekyll-archives:
 #######################################################
 
 # This is your site title
-title: Fides et Ratio - Scientific Human Learning and Intelligence
+title: Fides et Ratio - Scientific Human Intelligence
 # Website language
 lang: en-US
 # Header Title
-header-title: Conform to Truth
+header-title: Learning the Truth
 # Header Tagline
-headter-tagline: Scientific Human Learning and Intelligence
+headter-tagline: Scientific Human Intelligence
 
 ####################################
 ######   CTA Header Buttons   ######
@@ -57,8 +57,8 @@ headter-tagline: Scientific Human Learning and Intelligence
 
 # Focus Buttons
 header-focus-button:
-  title: Download Now
-  url: https://themeforest.net/collections/6069390-sera
+  title: Request Training App
+  url: https://s3.us-east-1.amazonaws.com/www.decision-machine.com/register-training.html
 
 # Secondary Buttons
 header-secondary-button:
@@ -70,11 +70,11 @@ header-secondary-button:
 # IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server
 # To configure this contact form, first please send a fictive email afeter you enter below your email and verify that :)
 #
-email: your_email@example.com
+email: mtempler@decision-machine.com
 
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
-banner-link: https://themeforest.net/collections/6069390-sera
+#banner-link: https://themeforest.net/collections/6069390-sera
 
 ####################################
 ######  Global Social Links   ######
