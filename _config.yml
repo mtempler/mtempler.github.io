@@ -57,7 +57,7 @@ headter-tagline: Learned Truth
 
 # Focus Buttons
 header-focus-button:
-  title: Request Training App
+  title: Get True Measurements
   url: https://s3.us-east-1.amazonaws.com/www.decision-machine.com/register-training.html
 
 # Secondary Buttons
@@ -74,7 +74,7 @@ email: mtempler@decision-machine.com
 
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
-#banner-link: https://themeforest.net/collections/6069390-sera
+# banner-link: https://themeforest.net/collections/6069390-sera
 
 ####################################
 ######  Global Social Links   ######
@@ -104,18 +104,6 @@ about-widget:
     facebook: "#"
     twitter: "#"
     google-plus: "#"
-
-# Google Map JS api
-key-api: YOUR_GOOGLE_MAP_API_KEY
-map-text: Sera Google Map
-map-lat: 44.4267674
-map-lng: 26.102538399999958
-
-# Enter your Mailchimp User ID and Campaign ID
-# @TODO: Add in a link for where to find these
-mailchimp:
-  user-id: REPLACEME
-  list-id: REPLACEME
 
 ####
 #
