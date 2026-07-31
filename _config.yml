@@ -43,13 +43,13 @@ jekyll-archives:
 #######################################################
 
 # This is your site title
-title: Fides et Ratio - Human Intelligence
+title: Fides et Ratio
 # Website language
 lang: en-US
 # Header Title
 header-title: Human Intelligence (HI)
 # Header Tagline
-headter-tagline: Learning Truth
+headter-tagline: Learned Truth
 
 ####################################
 ######   CTA Header Buttons   ######
