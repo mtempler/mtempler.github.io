@@ -60,10 +60,14 @@ header-focus-button:
   title: Get True Measurements
   url: https://s3.us-east-1.amazonaws.com/www.decision-machine.com/register-training.html
 
+header-focus-button:
+  title: Data Dictionary
+  url: https://fides-ratio.com/decision-machine/data-dictionary.html
+
 # Secondary Buttons
-header-secondary-button:
-  title: Discover More
-  url: http://themeforest.net/user/ohkimur
+#header-secondary-button:
+#  title: Data Dictionary
+#  url: https://fides-ratio.com/decision-machine/data-dictionary.html
 
 #
 # This is your email adress, contact from send here all emails from contact section
