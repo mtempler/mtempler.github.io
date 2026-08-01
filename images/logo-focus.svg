@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="30 30 450 100" role="img">
   <title>Fides et Ratio</title>
-  <desc>Wordmark logo for Fides et Ratio LLC - white version for slate grey header</desc>
+  <desc>Wordmark logo for Fides et Ratio LLC - dark version for cyan navbar</desc>
   <style>
     .logo-word { font-family: Georgia, 'Times New Roman', serif; font-size: 42px; font-weight: 400; letter-spacing: 2px; fill: #ffffff; }
-    .logo-et { font-family: Georgia, 'Times New Roman', serif; font-size: 28px; font-weight: 400; font-style: italic; fill: #ffffff; letter-spacing: 1px; }
+    .logo-et { font-family: Georgia, 'Times New Roman', serif; font-size: 28px; font-weight: 400; font-style: italic; fill: #1a2640; letter-spacing: 1px; }
     .logo-sub { font-family: Arial, sans-serif; font-size: 11px; font-weight: 400; letter-spacing: 6px; fill: rgba(255,255,255,0.6); }
   </style>
-  <circle cx="54" cy="68" r="22" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/>
-  <circle cx="74" cy="68" r="22" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.6"/>
-  <circle cx="64" cy="68" r="4" fill="#ffffff" opacity="0.85"/>
+  <circle cx="54" cy="68" r="22" fill="none" stroke="#1a2640" stroke-width="1.5" opacity="0.9"/>
+  <circle cx="74" cy="68" r="22" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.8"/>
+  <circle cx="64" cy="68" r="4" fill="#1a2640" opacity="0.85"/>
   <line x1="108" y1="38" x2="108" y2="98" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
   <text y="86" x="124" class="logo-word">FIDES <tspan class="logo-et" dy="-3">et</tspan><tspan class="logo-word" dy="3"> RATIO</tspan></text>
   <text x="124" y="114" class="logo-sub">LLC</text>
