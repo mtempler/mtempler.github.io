@@ -35,10 +35,7 @@
 
 // CTA Buttons
 .button-cta {
-  min-height: 54px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  white-space: nowrap;
   max-width: 100%;
   color: $white;
   border: 2px solid $white;
@@ -51,7 +48,8 @@
 
   &.button-focus {
     border-color: $primary;
-    background-color: $primary;
+    background-color: $transparent;
+    border: 2px solid #ffffff;
   }
 
   &.button-blue {
