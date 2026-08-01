@@ -119,7 +119,7 @@ header.site-header {
 
   // Site Header Banner
   .header-banner {
-    height: calc(100vh - 250px);
+    height: calc(100vh - 100px);
     max-height: calc(1080px - 250px);
     z-index: 2;
     color: $white;
