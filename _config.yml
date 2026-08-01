@@ -132,17 +132,17 @@ features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. A
 features:
   # Feature
   - title: Scientific Measurements
-    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+    description: For any time-series, a complete set of thermodynamics measurements is returned.  The total energy that enters or exits the environment can be measured, making the system non-mechanical.  
     icon: pe-7s-vector
 
   # Feature
   - title: Transparent
-    description: No Models, No Model Development Lifecycle, No Model Biases
+    description: Pure measurement.  No Models or Model Biases, and, no Model Development Lifecycle.
     icon: pe-7s-help2
 
   # Feature
-  - title: Accoutable, Inclusive
-    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+  - title: Inclusive
+    description: Ease of use.  No theory required to operate effectively.
     icon: pe-7s-airplay
 
 #####################################
