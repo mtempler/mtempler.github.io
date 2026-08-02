@@ -146,6 +146,12 @@ features:
     icon: pe-7s-airplay
 
 #####################################
+############# Our Blog ##############
+#####################################
+blog-title: Our Blog
+blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+
+#####################################
 ############  Portfolio  ############
 #####################################
 portfolio-title: Portfolio
@@ -306,11 +312,6 @@ testimonials:
     cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
     logo-img: audiojungle.png
 
-#####################################
-############# Our Blog ##############
-#####################################
-blog-title: Our Blog
-blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
 
 #####################################
 ############### Team ################
