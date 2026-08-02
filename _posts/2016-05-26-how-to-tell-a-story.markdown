@@ -1,14 +1,22 @@
 ---
 layout: post
-title: "How to tell a story"
+title: "The Case Against AI being a Theory-of-Everything"
 tagline: Single Page
-date: 2016-05-26 13:23
-categories: [Storyline]
-tags: [Storyline, How To, Tips]
+date: 2026-08-10 13:23
+categories: [AI]
+tags: [AI in practice, How To, Tips]
 image: img-03.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum condimentum justo, rhoncus ullamcorper orci dapibus eget. Aliquam id efficitur lacus. Donec ac mattis ante. Nam vehicula turpis augue. Aliquam erat volutpat.
+We hold firm that Human Intelligence (HI) is a gift from God.  It is a wonderful gift: that Truth is human intellect and thing conformed.  When intellect and thing do not conform, this is falsity.  And we must not build tools to support human decision making on falsity.  The insightful Tagore said,
+
+We read the world wrong and say that it deceives us.
+
+And now,
+
+We dismiss Human Intelligence and replace it with deception.
+
+We will show that the self-deception takes two forms: false assumptions and simplistic architectures. 
 
 Aliquam fermentum ornare iaculis. Proin vehicula nisi sed vestibulum consectetur. Praesent placerat enim eu justo euismod, vel consequat ligula mollis. Quisque mollis, lacus sed imperdiet finibus, risus felis tempor sapien, in suscipit sem nulla bibendum magna. Curabitur venenatis condimentum ipsum, at hendrerit dui dictum quis. In sodales in ligula eget venenatis. Suspendisse imperdiet congue odio at tempus. Donec pellentesque cursus semper. Praesent vel augue sem. Integer nec diam consequat, sollicitudin urna eu, placerat justo. Donec in odio et tellus lobortis vehicula at pellentesque nisi.
 
@@ -26,7 +34,5 @@ Integer non elementum orci. Praesent vulputate id libero at congue. Ut eget urna
 Etiam euismod eget lorem hendrerit commodo. Morbi efficitur sed ipsum id fringilla. Nunc in finibus odio, ac bibendum turpis. Aliquam porta eget enim et imperdiet. Nunc luctus ac nunc nec tristique. Mauris sollicitudin quis lorem in congue. Mauris venenatis euismod turpis, in pellentesque ligula fringilla et. Suspendisse dictum vitae dolor et tincidunt. Nullam viverra rutrum ex ut commodo.
 
 Suspendisse mattis lorem nec ante laoreet, quis volutpat diam luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In condimentum pellentesque cursus. Curabitur sit amet orci malesuada, sollicitudin arcu ut, pulvinar arcu. Curabitur finibus libero sit amet libero sollicitudin dapibus. Aenean felis velit, mattis sed pulvinar volutpat, venenatis at nibh. Vestibulum commodo urna turpis, nec cursus quam dignissim non. Morbi odio elit, tincidunt eu mi a, finibus luctus sapien. Morbi venenatis iaculis tristique. In ultricies rhoncus bibendum. Vestibulum id ipsum eget lectus pellentesque facilisis ut non quam. Nunc ipsum nisl, vulputate at viverra sit amet, egestas eget eros. Morbi ut neque volutpat, vehicula nulla id, viverra massa. Ut sollicitudin elit sed hendrerit volutpat.
-
-Aenean eu auctor felis, eget suscipit odio. Nam molestie velit ac auctor convallis. Duis volutpat ligula dictum libero lacinia malesuada. Nunc et mi non quam dictum ultrices. Pellentesque vitae felis quis felis laoreet ullamcorper. Ut pretium tincidunt tincidunt. Nam consectetur neque id enim scelerisque, vitae laoreet massa vestibulum.
 
 Nullam varius est ac condimentum accumsan. Nunc vel nulla neque. Nullam et sem quis arcu pulvinar iaculis. Integer dictum magna sapien, ac rutrum erat auctor eget. Sed sagittis cursus quam, ac venenatis purus imperdiet non. Quisque eleifend porta lectus quis accumsan. In sapien erat, sagittis eu laoreet in, vulputate eu est. Fusce aliquet lacus est, non molestie leo accumsan a.
