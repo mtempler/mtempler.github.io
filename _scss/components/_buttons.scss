@@ -47,8 +47,9 @@
   text-transform: uppercase;
 
   &.button-focus {
-    border: 2px solid #ffffff;
+    border: 2px solid $primary;
     color: #ffffff;
+    background-color: $primary;
   }
 
   &.button-blue {
