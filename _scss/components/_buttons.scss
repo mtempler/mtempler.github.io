@@ -47,9 +47,21 @@
   text-transform: uppercase;
 
   &.button-focus {
+    border: 2px solid #ffffff;
+    color: #ffffff;
+  }
+
+  &.button-solid {
     border: 2px solid $primary;
     color: #ffffff;
     background-color: $primary;
+
+    &:hover,
+    &:active {
+      color: $white;
+      border-color: lighten($primary, 20%);
+      background-color: lighten($primary, 20%);
+    }
   }
 
   &.button-blue {
