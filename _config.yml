@@ -105,20 +105,11 @@ about-widget:
     twitter: "#"
     google-plus: "#"
 
-####
-#
-# Hi you now use Sera - OnePage Jekyll Theme created by Ohkimur
-#
-# Below are each section from the website in order from top to bottom
-# @TODO Edit each sections with your real information and each section from Sera will autocomplete with your information
-#
-####
-
 #####################################
 #############   About   #############
 #####################################
 about-title: Welcome to Fides et Ratio
-about-description: At Fides et Ratio we hold firm that Human Intelligence (HI) is a gift from God.  The gift is that Truth is human intellect and thing in agreement.  AI cannot be Truth due to its architecture and statistical assumptions; the future is not statistically the same as the past.  By returning to the foundations of science, the science-of-counting accepts any time-series and returns scientific measurements, as deductive reality. 
+about-description: At Fides et Ratio we hold that Human Intelligence (HI) is a gift from God.  And, from St. Thomas, that truth is the conformity of human intellect and thing.  AI as a Theory-of-Everything cannot be true, because it faces in the wrong direction and relies on untrue statistical assumptions.  By returning to the foundations of science, the science-of-counting accepts any time-series and returns scientific measurements, as deductive reality. 
 
 #####################################
 #############  Features  ############
@@ -269,13 +260,6 @@ core-features-right:
   - name: Photography
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
     icon: pe-7s-camera
-
-#####################################
-########### Testimonials ############
-#####################################
-testimonials-title: Testimonials
-testimonials-description: Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi.
-
 
 #####################################
 ############   Contact   ############
