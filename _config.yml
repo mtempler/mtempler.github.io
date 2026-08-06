@@ -58,12 +58,12 @@ headter-tagline: Learned Truth
 # Focus Buttons
 header-focus-button:
   title: True Measurements
-  url: https://fides-ratio.com/decision-machine/register-training.html
+  url: https://fides-ratio.com/register-training.html
 
 # Secondary Buttons
 header-secondary-button:
   title: Data Dictionary
-  url: https://fides-ratio.com/decision-machine/data-dictionary.html
+  url: https://fides-ratio.com/data-dictionary.html
 
 #
 # This is your email adress, contact from send here all emails from contact section
