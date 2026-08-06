@@ -58,7 +58,7 @@ headter-tagline: Learned Truth
 # Focus Buttons
 header-focus-button:
   title: True Measurements
-  url: https://s3.us-east-1.amazonaws.com/www.decision-machine.com/register-training.html
+  url: /decision-machine/register-training.html
 
 # Secondary Buttons
 header-secondary-button:
