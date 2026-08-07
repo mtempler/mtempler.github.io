@@ -58,7 +58,7 @@ header-focus-button:
 # Secondary Buttons
 header-secondary-button:
   title: Data Dictionary
-  url: https://fides-ratio.com/docs/data-dictionary.html
+  url: https://fides-ratio.com/decision-machine/data-dictionary.html
 
 #
 # This is your email adress, contact from send here all emails from contact section
