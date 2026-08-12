@@ -1,10 +1,11 @@
----
+\---
+
 layout: post
-title: "The Case Against AI being a Theory-of-Everything"
+title: "The Capitalist Reformation"
 tagline: Single Page
 date: 2026-08-10 13:23
-categories: [AI]
-tags: [AI in practice, How To, Tips]
+categories: \[AI]
+tags: \[AI in practice, How To, Tips]
 image: img-03.jpg
 ---
 
@@ -16,7 +17,7 @@ And now,
 
 We dismiss Human Intelligence and replace it with deception.
 
-We will show that the self-deception takes two forms: false assumptions and simplistic architectures. 
+We will show that the self-deception takes two forms: false assumptions and simplistic architectures.
 
 Aliquam fermentum ornare iaculis. Proin vehicula nisi sed vestibulum consectetur. Praesent placerat enim eu justo euismod, vel consequat ligula mollis. Quisque mollis, lacus sed imperdiet finibus, risus felis tempor sapien, in suscipit sem nulla bibendum magna. Curabitur venenatis condimentum ipsum, at hendrerit dui dictum quis. In sodales in ligula eget venenatis. Suspendisse imperdiet congue odio at tempus. Donec pellentesque cursus semper. Praesent vel augue sem. Integer nec diam consequat, sollicitudin urna eu, placerat justo. Donec in odio et tellus lobortis vehicula at pellentesque nisi.
 
@@ -36,3 +37,4 @@ Etiam euismod eget lorem hendrerit commodo. Morbi efficitur sed ipsum id fringil
 Suspendisse mattis lorem nec ante laoreet, quis volutpat diam luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In condimentum pellentesque cursus. Curabitur sit amet orci malesuada, sollicitudin arcu ut, pulvinar arcu. Curabitur finibus libero sit amet libero sollicitudin dapibus. Aenean felis velit, mattis sed pulvinar volutpat, venenatis at nibh. Vestibulum commodo urna turpis, nec cursus quam dignissim non. Morbi odio elit, tincidunt eu mi a, finibus luctus sapien. Morbi venenatis iaculis tristique. In ultricies rhoncus bibendum. Vestibulum id ipsum eget lectus pellentesque facilisis ut non quam. Nunc ipsum nisl, vulputate at viverra sit amet, egestas eget eros. Morbi ut neque volutpat, vehicula nulla id, viverra massa. Ut sollicitudin elit sed hendrerit volutpat.
 
 Nullam varius est ac condimentum accumsan. Nunc vel nulla neque. Nullam et sem quis arcu pulvinar iaculis. Integer dictum magna sapien, ac rutrum erat auctor eget. Sed sagittis cursus quam, ac venenatis purus imperdiet non. Quisque eleifend porta lectus quis accumsan. In sapien erat, sagittis eu laoreet in, vulputate eu est. Fusce aliquet lacus est, non molestie leo accumsan a.
+
