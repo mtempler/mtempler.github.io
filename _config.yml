@@ -118,7 +118,7 @@ features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. A
 features:
   # Feature
   - title: Scientific Measurements
-    description: For any time-series, a complete set of thermodynamics measurements is returned.  The total energy that enters or exits the environment can be measured, making the system non-mechanical..
+    description: For any time-series, a complete set of thermodynamics measurements is returned.  The total energy that enters or exits the environment can be measured, making the system generally non-mechanical.
     icon: pe-7s-vector
 
   # Feature
@@ -127,7 +127,7 @@ features:
     icon: pe-7s-help2
 
   # Feature
-  - title: Inclusive
+  - title: Inclusive and Accessible
     description: Ease of use.  No theory required to operate effectively.
     icon: pe-7s-airplay
 
