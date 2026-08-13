@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Capitalist Reformation: Resources"
+title: "The Capitalist Reformation: Resource Management"
 tagline: Single Page
 date: 2026-08-11 13:23
 categories: [AI, Capitalist Reformation]
