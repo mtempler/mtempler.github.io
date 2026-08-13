@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Capitalist Reformation: Correcting the Current System from Within"
+title: "A Capitalist Reformation: Correcting the Current System from Within"
 tagline: Single Page
 date: 2026-08-10 13:23
 categories: [AI, Capitalist Reformation]
