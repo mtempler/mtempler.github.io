@@ -1,14 +1,13 @@
-\---
+---
 
 layout: post
 title: "The Capitalist Reformation: Economics"
 tagline: Single Page
 date: 2026-08-10 13:23
-categories: \[AI]
-tags: \[AI in practice, Capitalist Reformation]
+categories: [AI, Economics]
+tags: [AI in practice, Capitalist Reformation]
 image: img-03.jpg
 ---
-
 
 
 A stationary process is a stochastic process whose statistical properties (for example, mean and variance) do not change over time.  Economists know that stationarity assumptions breakdown.  Much of modern econometrics (GARCH, regime-switching models, structural break tests, local stationarity, co-integration-with-breaks, and so on) responds to the "statistics change when the regime changes."  Even the best non-stationary-aware econometrics still fits something (a break-point distribution, a time-varying volatility parameter, a regime-transition-probability), and still assumes that whatever regime you are currently in, stationarity holds at least locally.  There is still a model, still a fit, still an implicit assumption that "the recent past predicts the local future."
@@ -19,7 +18,7 @@ Scientific Machine Learning (SML) computes real-time thermodynamic measurements 
 
 
 
-The critical SML differentiator isn't therefore stationary vs. non-stationary, but rather estimated vs. deduced.  This is not offered as a better-fitting model of price dynamics, but as a different kind of object: a measurement rather than an estimate. Whether that distinction proves useful for price dynamics is a question for economists, not a claim the authors are positioned to validate here and now."
+The critical SML differentiator isn't therefore stationary vs. non-stationary, but rather estimated vs. deduced.  SML is not offered as a better-fitting model of price dynamics, but as a different kind of object: a deductive measurement rather than an estimate. 
 
 
 
