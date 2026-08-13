@@ -1,13 +1,13 @@
 ---
-
 layout: post
 title: "The Capitalist Reformation: Economics"
 tagline: Single Page
-date: 2026-08-10 13:23
-categories: [AI, Economics]
-tags: [AI in practice, Capitalist Reformation]
+date: 2026-08-26 13:23
+categories: [AI, Capitalist Reformation]
+tags: [AI in Practice, Economics]
 image: img-03.jpg
 ---
+
 
 
 A stationary process is a stochastic process whose statistical properties (for example, mean and variance) do not change over time.  Economists know that stationarity assumptions breakdown.  Much of modern econometrics (GARCH, regime-switching models, structural break tests, local stationarity, co-integration-with-breaks, and so on) responds to the "statistics change when the regime changes."  Even the best non-stationary-aware econometrics still fits something (a break-point distribution, a time-varying volatility parameter, a regime-transition-probability), and still assumes that whatever regime you are currently in, stationarity holds at least locally.  There is still a model, still a fit, still an implicit assumption that "the recent past predicts the local future."
