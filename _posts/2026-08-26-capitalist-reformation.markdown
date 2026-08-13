@@ -2,7 +2,7 @@
 layout: post
 title: "The Capitalist Reformation: Economics"
 tagline: Single Page
-date: 2026-08-26 13:23
+date: 2026-08-10 13:23
 categories: [AI, Capitalist Reformation]
 tags: [AI in Practice, Economics]
 image: img-03.jpg
