@@ -2,10 +2,10 @@
 layout: post
 title: "The Capitalist Reformation: Resources"
 tagline: Single Page
-date: YYYY-MM-DD HH:MM
+date: 2026-08-26 13:23
 categories: [AI, Capitalist Reformation]
 tags: [AI in Practice, Resource Management]
-image: img-XX.jpg
+image: img-02.jpg
 ---
 
 
