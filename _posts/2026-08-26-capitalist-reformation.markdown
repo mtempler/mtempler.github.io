@@ -32,14 +32,20 @@ The critical SML differentiator isn't therefore stationary vs. non-stationary, b
 
 **Human Decision**
 
-Mechanical decisions are made by applying fixed, rule-based procedures on data, so that mechanical decisions can be made by a machine, specifically without influence from the human mind, emotions, or non-mechanical changes in the decision environment that require the human mind, human emotions (especially, compassion) to make good decisions.  If we were to put all possible human decisions into a box, and pick out one decision arbitrarily, the probability is zero that that one decision is mechanical.  There are many more human decisions than mechanical decisions.  As humans, we likely agree that a weapon that makes mechanical life-and-death decisions is inhuman and immoral.
+Mechanical decisions are made by applying fixed, rule-based procedures on data, so that mechanical decisions can be made by a machine, specifically without influence from the human mind, emotions, or non-mechanical changes in the decision environment that require the human mind, human emotions (especially, compassion) to make good decisions.  If we were to put all possible human decisions into a box, and pick out one decision arbitrarily, the probability is zero that that one decision is mechanical.  There are many, many more human decisions than mechanical decisions.  As humans, we likely agree that a weapon that makes mechanical life-and-death decisions is inhuman and immoral.
 
-Scientific Machine Learning (SML) is a human tool, it is measuring equipment made accessible in the cloud, and the product of multi-generational human intelligence.
+Comparing the strengths of Humans and Machine Learning, a complementary relation exists when humans and machine learning are both unbiased.
 
 **Human Strengths:** intelligence, creativity, intuition, compassion, contextual understanding, adaptability, ethical judgement
 
-**Scientific Machine Learning Strengths:** deductive (no models, no model biases), scientific pattern recognition, speed, scalability
+**Scientific Machine Learning Strengths:** deductive measurements (no models, no model biases), scientific pattern recognition, speed, scalability
 
+Scientific Machine Learning (SML) is deductive measuring equipment for time-series made accessible in the cloud.  SML is the product of (multi-generational) human intelligence, and apparently what humans do best.  Rules-based infrastructures pales by comparison, and by definition only applies to mechanical decisions.
+
+
+**Transparency and Accessibility**
+
+Scientific Machine Learning (SML) is deductive measuring equipment for time-series made accessible in the cloud.
 
 <blockquote cite="https://github.com/">
   We read the world <strong>wrong</strong> <br> and say that it <strong>deceives us.</strong>
