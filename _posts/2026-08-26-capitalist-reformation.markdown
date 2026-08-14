@@ -42,7 +42,7 @@ Scientific Machine Learning Strengths: deductive (no models, no model biases), s
 
 
 <blockquote cite="https://github.com/ohkimur">
-  We read the world <br> wrong and say that it <strong>deceives us.</strong>
+  We read the world <strong>wrong</strong> <br> and say that it <strong>deceives us.</strong>
   <small>Tagore</small>
 </blockquote>
 
