@@ -27,16 +27,23 @@ A stationary process is a stochastic process whose statistical properties (for e
 Scientific Machine Learning (SML) computes real-time thermodynamic measurements (e.g., probability distribution, momentum, free energy, temperature, dissipation, and so on) directly from an incoming time-series, with no trained model or statistical assumptions \[1].  SML's measurements require no fitting at all, of any kind.  They are deduced directly from the counted data in hand, valid at each instant independent of whether or how the regime is shifting.  Adam Smith's qualitative argument in The Wealth of Nations (1776) already describes, in prose, a structure close to what SML formalizes mathematically, and the Invisible Hand Hypothesis is maintained as a causal correction caused by something.  One hundred and ten years later, Francis Galton introduced regression-to-mean in his 1886 paper "Regression towards mediocrity in hereditary stature" in evolutionary biology, where regression-to-mean required no mechanism at all, for it is merely statistically likely.
 
 
-
 The critical SML differentiator isn't therefore stationary vs. non-stationary, but rather estimated vs. deduced.  SML is not offered as a better-fitting model of price dynamics, but as a different kind of object: a deductive measurement rather than an estimate. 
 
 
+**Human Decision**
 
+Mechanical decisions are made by applying fixed, rule-based procedures on data, so that mechanical decisions can be made by a machine, specifically without influence from the human mind, emotions, or non-mechanical changes in the decision environment that require the human mind, human emotions (especially, compassion) to make good decisions.  If we were to put all possible human decisions into a box, and pick out one decision arbitrarily, the probability is zero that that one decision is mechanical.  There are many more human decisions than mechanical decisions.  As humans, we likely agree that a weapon that makes mechanical life-and-death decisions is inhuman and immoral.
+
+Scientific Machine Learning (SML) is a human tool, it is measuring equipment made accessible in the cloud, and the product of multi-generational human intelligence.
+
+Human Strengths: intelligence, creativity, intuition, compassion, contextual understanding, adaptability, ethical judgement
+
+Scientific Machine Learning Strengths: deductive (no models, no model biases), scientific pattern recognition, speed, scalability
 
 
 <blockquote cite="https://github.com/ohkimur">
-  Simplicity is the <br> ultimate <strong>Sophistication</strong>
-  <small>Leonardo da Vinci</small>
+  We read the world <br> wrong and say that it <strong>deceives us.</strong>
+  <small>Tagore</small>
 </blockquote>
 
 
