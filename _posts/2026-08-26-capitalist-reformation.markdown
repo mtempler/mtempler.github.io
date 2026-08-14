@@ -41,7 +41,7 @@ Human Strengths: intelligence, creativity, intuition, compassion, contextual und
 Scientific Machine Learning Strengths: deductive (no models, no model biases), scientific pattern recognition, speed, scalability
 
 
-<blockquote cite="https://github.com/ohkimur">
+<blockquote cite="https://github.com/">
   We read the world <strong>wrong</strong> <br> and say that it <strong>deceives us.</strong>
   <small>Tagore</small>
 </blockquote>
