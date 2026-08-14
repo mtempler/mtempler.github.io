@@ -36,9 +36,9 @@ Mechanical decisions are made by applying fixed, rule-based procedures on data, 
 
 Scientific Machine Learning (SML) is a human tool, it is measuring equipment made accessible in the cloud, and the product of multi-generational human intelligence.
 
-Human Strengths: intelligence, creativity, intuition, compassion, contextual understanding, adaptability, ethical judgement
+**Human Strengths:** intelligence, creativity, intuition, compassion, contextual understanding, adaptability, ethical judgement
 
-Scientific Machine Learning Strengths: deductive (no models, no model biases), scientific pattern recognition, speed, scalability
+**Scientific Machine Learning Strengths:** deductive (no models, no model biases), scientific pattern recognition, speed, scalability
 
 
 <blockquote cite="https://github.com/">
