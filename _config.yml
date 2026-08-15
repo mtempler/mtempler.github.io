@@ -124,7 +124,7 @@ features:
 
   # Feature
   - title: Human Decisions
-    description: Mechanical decisions are made by applying fixed, rule-based procedures on data, that can be evaluated by a machine, without influence from the human mind or emotions.
+    description: Mechanical decisions assume no external influences, so that explicitly no energy is allowed to enter or exit.  In a mechanical environment, decisions are made by applying fixed, rule-based procedures on data.  Human decisions are everything else; all the decisions that are not mechanical, and operate in a non-equilibrium environment measured by time-series.
     icon: pe-7s-help2
 
   # Feature
