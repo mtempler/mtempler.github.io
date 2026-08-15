@@ -119,12 +119,11 @@ features:
   # Feature
   - title: Scientific Measurements
     description: Scientific Machine Learning (SML) integrates the science-of-counting with time-series data to define deductive, combinatorial scientific measurements, including, exact discrete probability distributions, the energy entering or exiting the system, temperature, dissipation, and so on.  SML provides unbiased, model-free measurements for time-series, also known as pure measurements.
-
     icon: pe-7s-vector
 
   # Feature
   - title: Human Decisions
-    description: Mechanical decisions assume no external influences, so that explicitly no energy is allowed to enter or exit.  In a mechanical environment, decisions are made by applying fixed, rule-based procedures on data.  Human decisions are everything else; all the decisions that are not mechanical, and operate in a non-equilibrium environment measured by time-series.
+    description: Mechanical decisions assume no external influences; explicitly, no energy is allowed to enter or exit.  Human decisions are all the decisions that are not mechanical, and operate in a non-equilibrium environment that can be measured from its time-series.  
     icon: pe-7s-help2
 
   # Feature
