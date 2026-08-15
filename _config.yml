@@ -110,7 +110,7 @@ about-description: R. Tagore writes, "we read the world wrong and say that it de
 #############  Features  ############
 #####################################
 features-title: Features
-features-description: The science-of-counting is science when counting in units.  This is achieved by counting up to the last full measure, which ensures that multiple measurers, given the same unit of measure, will get the same measurement. Any leftover by definition is less than a full unit of measure, and is ignored.
+features-description: The science-of-counting is science when counting in units.  This is achieved by counting up to the last full measure, which ensures that multiple measurers, given the same unit of measure, will get the exact same measurement. Any leftover by definition is less than a full unit of measure, and is ignored.
 
 #
 # Features
@@ -118,13 +118,13 @@ features-description: The science-of-counting is science when counting in units.
 features:
   # Feature
   - title: Scientific Measurements
-    description: Scientific Machine Learning (SML) integrates the science-of-counting with time-series data to define deductive, combinatorial scientific measurements, including, exact discrete probability distributions, the energy entering or exiting the system, temperature, dissipation, and so on.  SML provides unbiased, model-free measurements for time-series.
+    description: Scientific Machine Learning (SML) integrates the science-of-counting with time-series data to define deductive, combinatorial scientific measurements, including, exact discrete probability distributions, the energy entering or exiting the system, temperature, dissipation, and so on.  SML provides unbiased, model-free measurements for time-series, also known as pure measurements.
 
     icon: pe-7s-vector
 
   # Feature
-  - title: Transparent
-    description: Pure measurement.  No Models or Model Biases, and, no Model Development Lifecycle.
+  - title: Human Decisions
+    description: Mechanical decisions are made by applying fixed, rule-based procedures on data, that can be evaluated by a machine, without influence from the human mind or emotions.
     icon: pe-7s-help2
 
   # Feature
