@@ -110,7 +110,7 @@ about-description: R. Tagore writes, "we read the world wrong and say that it de
 #############  Features  ############
 #####################################
 features-title: Features
-features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante.
+features-description: The science-of-counting is science when counting in units.  This is achieved by counting up to the last full measure, which ensures that multiple measurers, given the same unit of measure, will get the same measurement. Any leftover by definition is less than a full unit of measure, and is ignored.
 
 #
 # Features
@@ -118,7 +118,8 @@ features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. A
 features:
   # Feature
   - title: Scientific Measurements
-    description: For any time-series, a complete set of thermodynamics measurements is returned.  The total energy that enters or exits the environment can be measured, making the system generally non-mechanical.
+    description: Scientific Machine Learning (SML) integrates the science-of-counting with time-series data to define deductive, combinatorial scientific measurements, including, exact discrete probability distributions, the energy entering or exiting the system, temperature, dissipation, and so on.  SML provides unbiased, model-free measurements for time-series.
+
     icon: pe-7s-vector
 
   # Feature
