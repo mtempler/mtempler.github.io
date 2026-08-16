@@ -118,7 +118,7 @@ features-description: The science-of-counting is science when counting in units.
 features:
   # Feature
   - title: Scientific Measurements
-    description: Scientific Machine Learning (SML) integrates the science-of-counting with time-series data to define deductive, combinatorial scientific measurements, including, exact discrete probability distributions, the energy entering or exiting the system, temperature, dissipation, and so on.  Scientific Machine Learning generates real-time, model-free measurements from time-series, also known as pure measurements.  
+    description: Scientific Machine Learning (SML) integrates the science-of-counting with time-series data to define deductive, combinatorial scientific measurements, including, exact discrete probability distributions, the energy entering or exiting the system, temperature, dissipation, and so on.  Scientific Machine Learning generates real-time, model-free, vertical independent measurements from time-series, also known as pure measurements.  
     icon: pe-7s-vector
 
   # Feature
