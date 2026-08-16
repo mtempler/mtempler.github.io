@@ -10,4 +10,4 @@ image: img-02.jpg
 
 
 
-(Post content goes here.)
+Rule-based systems are limited by their inflexibility, inability to learn, difficulty handling ambiguity, and challenges in scaling and maintaining complex rule sets.
