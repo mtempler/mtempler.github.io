@@ -123,7 +123,7 @@ features:
 
   # Feature
   - title: Human Decisions
-    description: Mechanical decisions assume no external influences, and that the statistical future is the same as the statistical past.  Explicitly, no energy is allowed to enter or exit.  Human decisions move beyond mechanical, to operate in a non-equilibrium reality that can be measured from its time-series.  
+    description: Mechanical decisions assume no external influences, and that the statistical future is the same as the statistical past.  Explicitly, in mechanics no energy is allowed to enter or exit.  Human decisions move beyond the mechanical to operate in the non-equilibrium reality that is measured from its time-series.  Because human decisions can respond to external influences, control decisions are also human decisions.
     icon: pe-7s-help2
 
   # Feature
