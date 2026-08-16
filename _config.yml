@@ -104,7 +104,7 @@ about-widget:
 #############   About   #############
 #####################################
 about-title: Welcome to Fides et Ratio
-about-description: R. Tagore writes, "we read the world wrong and say that it deceives us."  We mistaken our interpretations and readings of reality for Reality itself.  The illusion is a covering made up of projections, a priori assumptions, and judgements that are more or less inherited from others.  We apply these automatically and without concern for any examination or verification that might help us to find out whether this prism through which we decipher reality is really telling us anything about Reality, or on the contrary, hiding it from us.  It can be empirically shown that we are enclosed in an arrested perception of the world.  We see for example that measurements of our dynamic world, time-series, bluntly contradict statistical assumptions.  By returning to the foundations of science, the science-of-counting, Scientific Machine Learning provides a rigorous derivation for Machine Learning that generalizes statistics to probability theory, demonstrates that energy can enter and exit the system (is not mechanical), and accepts any time-series to return a complete set of scientific measurements as deductive reality.
+about-description: R. Tagore writes, "we read the world wrong and say that it deceives us."  We mistaken our interpretations and readings of reality for Reality itself.  The illusion is a covering made up of projections, a priori assumptions, and judgements that are more or less inherited from others.  We apply these automatically and without concern for examination or verification that might help us to find out whether this prism through which we decipher reality is really telling us anything about Reality, or on the contrary, hiding it from us.  It can be empirically shown that we are enclosed in an arrested perception of the world.  We see for example that measurements of our dynamic world, through time-series, bluntly contradict statistical assumptions.  By returning to the foundations of science, the science-of-counting, Scientific Machine Learning provides a rigorous derivation for Machine Learning that generalizes statistics to probability theory, demonstrates that energy can enter and exit the system (is not mechanical), and accepts any time-series to return a complete set of scientific measurements as deductive reality.
 
 #####################################
 #############  Features  ############
@@ -123,11 +123,11 @@ features:
 
   # Feature
   - title: Human Decisions
-    description: Human decisions operate in the non-equilibrium reality that is measured by its time-series.  Because human decisions can respond to external influences, control decisions are also human decisions.  Mechanical decisions assume no external influences, and that the statistical future is the same as the statistical past, equivalently, no energy is allowed to enter or exit.  In general, human decisions cannot be expressed as fixed-rule procedures on data.  
+    description: Human decisions operate in the non-equilibrium reality measured by time-series.  Because human decisions can respond to external influences, control decisions are also human decisions.  Mechanical decisions, on the other hand, forbid external influences and assume that the statistical future is the same as the statistical past, equivalently, no energy is allowed to enter or exit.  Human decisions cannot be expressed as fixed-rule procedures on data.  
     icon: pe-7s-help2
 
   # Feature
-  - title: Inclusive and Accessible
+  - title: Transparent, Inclusive and Accessible
     description: Ease of use.  No theory required to operate effectively.
     icon: pe-7s-airplay
 
