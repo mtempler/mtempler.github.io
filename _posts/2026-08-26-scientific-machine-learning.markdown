@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "The Capitalist Reformation: Transparency and Global Availability"
+title: "Scientific Machine Learning"
 tagline: Single Page
 date: 2026-08-12 13:23
-categories: [AI, Capitalist Reformation]
+categories: [AI]
 tags: [AI in Practice, Transparency, Global Availability]
 image: img-04.jpg
 ---
