@@ -118,12 +118,12 @@ features-description: The science-of-counting is science when counting in units.
 features:
   # Feature
   - title: Scientific Measurements
-    description: Scientific Machine Learning (SML) integrates the science-of-counting with time-series data to define deductive, combinatorial scientific measurements, including, exact discrete probability distributions, the energy entering or exiting the system, temperature, dissipation, and so on.  SML provides unbiased, model-free measurements for time-series, also known as pure measurements.  Scientific measurements are model free, and therefore free from model biases and model development lifecycles.
+    description: Scientific Machine Learning (SML) integrates the science-of-counting with time-series data to define deductive, combinatorial scientific measurements, including, exact discrete probability distributions, the energy entering or exiting the system, temperature, dissipation, and so on.  Scientific Machine Learning generates real-time, model-free measurements from time-series, also known as pure measurements.  
     icon: pe-7s-vector
 
   # Feature
   - title: Human Decisions
-    description: Mechanical decisions assume no external influences, and that the statistical future is the same as the statistical past.  In mechanics no energy is allowed to enter or exit, such that mechanical decisions can be expressed as fixed-rule procedures on data.  Human decisions move beyond the mechanical to operate in the non-equilibrium reality that is measured by its time-series.  Because human decisions can respond to external influences, control decisions are also human decisions.
+    description: Mechanical decisions assume no external influences, and that the statistical future is the same as the statistical past.  That is, no energy is allowed to enter or exit, so that mechanical decisions can be expressed as fixed-rule procedures on data.  Human decisions operate in the non-equilibrium reality that is measured by its time-series.  Because human decisions can respond to external influences, control decisions are also human decisions.
     icon: pe-7s-help2
 
   # Feature
