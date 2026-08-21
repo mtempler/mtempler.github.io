@@ -67,10 +67,6 @@ header-secondary-button:
 #
 email: mtempler@decision-machine.com
 
-# Offer Banner Link
-# Default link is a link to all Sera OnePage products
-# banner-link: https://themeforest.net/collections/6069390-sera
-
 ####################################
 ######  Global Social Links   ######
 ####################################
@@ -135,7 +131,7 @@ features:
 ############# Our Blog ##############
 #####################################
 blog-title: Our Blog
-blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+blog-description: Lessons learned and directions to explore.
 
 #####################################
 ############  Portfolio  ############
@@ -260,7 +256,7 @@ core-features-right:
 ############   Contact   ############
 #####################################
 contact-title: Contact Us
-contact-description: If participation in the community is your interest, visit our <a href="https://github.com/mtempler/mtempler.github.io/discussions">GitHub Discussions</a>.
+contact-description: If participation in the community is your interest, visit our <a href="https://github.com/mtempler/mtempler.github.io/discussions">GitHub Discussions</a>.  Otherwise, feel free to write to us below.
 
 #####################################
 #############   Footer   ############
