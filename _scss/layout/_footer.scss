@@ -21,6 +21,13 @@ footer.site-footer {
 
       img {
         margin: 0 auto;
+
+        // Optical centering fix: the icon on the left is thin/low-opacity
+        // while "FIDES et RATIO" is bold and solid, so the geometric
+        // center reads as shifted right. Nudge left on desktop only.
+        @media (min-width: 768px) {
+          transform: translateX(-14px);
+        }
       }
     }
 
