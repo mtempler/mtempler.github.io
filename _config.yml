@@ -255,7 +255,8 @@ contact-description: If participation in the community is your interest, visit o
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: We read the World wrong and say that it deceives us.  - Tagore
+footer-quote: We read the world wrong and say that it deceives us.
+footer-quote-author: Tagore
 footer-copyright-text: Fides-et-Ratio
 footer-copyright-url: https://github.com/mtempler
 footer-copyright-year: 2026
