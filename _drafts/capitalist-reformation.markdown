@@ -35,7 +35,7 @@ The critical SML differentiator isn't therefore stationary vs. non-stationary, b
 
 **Human Decisions**
 
-Mechanical decisions are made by applying fixed, rule-based procedures on data, so that mechanical decisions can be made by a machine, specifically without influence from the human mind, emotions, or non-mechanical changes in the decision environment that can be measured by the human mind and imbued with human emotions in order to make good decisions.  If we were to put all possible human decisions into a box, and pick out one decision arbitrarily, the probability is zero that that one decision is mechanical.  There are many, many more human decisions than mechanical decisions to make.  As humans, we likely agree that a weapon that makes mechanical life-and-death decisions is inhuman and immoral.
+Mechanical decisions are made by applying fixed, rule-based procedures on data, so that mechanical decisions can be made by fixed rules in a rules engine, specifically without influence from the human mind, emotions, or non-mechanical changes in the decision environment that can be measured by the human mind and imbued with human emotions in order to make good decisions.  If we were to put all possible human decisions into a box, and pick out one decision arbitrarily, the probability is zero that that one decision is mechanical.  There are many, many more human decisions than mechanical decisions to make.  As humans, we likely agree that a weapon that makes mechanical life-and-death decisions is inhuman and immoral.
 
 Comparing the strengths of Humans and Machine Learning, a productive relation exists between human and machine learning when both are unbiased.
 
