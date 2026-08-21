@@ -117,15 +117,15 @@ features:
     icon: pe-7s-help2
 
   # Feature
-  - title: Transparent, Inclusive and Accessible
-    description: Ease of use.  No theory required to operate effectively.
+  - title: Transparent, Accessible and Inclusive
+    description: Mathematically transparent deductive measurements that are available for processing in the cloud.  No models and vertical agnostic.  Anybody can be a data-scientist by taking scientific measurements and thinking about their meaning.  Fides et Ratio will host global community discussions (github) and to help organize what is learned.
     icon: pe-7s-airplay
 
 #####################################
 ############# Our Blog ##############
 #####################################
 blog-title: Our Blog
-blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+blog-description: Lessons learned and directions to explore.
 
 #####################################
 ############  Portfolio  ############
@@ -250,12 +250,12 @@ core-features-right:
 ############   Contact   ############
 #####################################
 contact-title: Contact Us
-contact-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
+contact-description: If participation in the community is your interest, visit our <a href="https://github.com/mtempler/mtempler.github.io/discussions">GitHub Discussions</a>.  Otherwise, please feel free to write to us below.
 
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
-footer-copyright-text: Ohkimur
-footer-copyright-url: https://github.com/ohkimur
-footer-copyright-year: 2021
+footer-description: We read the World wrong and say that it deceives us.  - Tagore
+footer-copyright-text: Fides-et-Ratio
+footer-copyright-url: https://github.com/mtempler
+footer-copyright-year: 2026
