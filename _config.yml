@@ -260,7 +260,7 @@ core-features-right:
 ############   Contact   ############
 #####################################
 contact-title: Contact Us
-contact-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
+contact-description: If participation in the community is your interest, visit our <a href="https://github.com/mtempler/mtempler.github.io/discussions">GitHub Discussions</a>.
 
 #####################################
 #############   Footer   ############
