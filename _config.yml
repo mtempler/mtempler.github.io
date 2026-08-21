@@ -127,8 +127,8 @@ features:
     icon: pe-7s-help2
 
   # Feature
-  - title: Transparent, Inclusive and Accessible
-    description: Ease of use.  No theory required to operate effectively.
+  - title: Transparent, Accessible and Inclusive
+    description: Mathematically transparent deductive measurements that are available for processing in the cloud.  No models and vertical agnostic.  Anybody can be a data-scientist by taking scientific measurements and thinking about their meaning.  Fides et Ratio will host global community discussions (github) and to help organize what is learned.
     icon: pe-7s-airplay
 
 #####################################
