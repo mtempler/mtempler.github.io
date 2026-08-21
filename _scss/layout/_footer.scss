@@ -26,7 +26,7 @@ footer.site-footer {
         // while "FIDES et RATIO" is bold and solid, so the geometric
         // center reads as shifted right. Nudge left on desktop only.
         @media (min-width: 768px) {
-          transform: translateX(-14px);
+          transform: translateX(-9px);
         }
       }
     }
@@ -36,16 +36,28 @@ footer.site-footer {
       padding: 35px 0;
 
       .footer-quote {
-        margin: 0;
+        margin: 0 auto;
         border: none;
         padding: 0;
+        max-width: 600px;
+        text-align: center;
+
+        &::before,
+        &::after {
+          content: none;
+        }
 
         p {
           font-size: 1.1rem;
           font-style: italic;
           font-weight: 300;
           line-height: 1.6;
-          margin-bottom: 10px;
+          margin: 0 0 10px;
+
+          &::before,
+          &::after {
+            content: none;
+          }
         }
 
         cite {
