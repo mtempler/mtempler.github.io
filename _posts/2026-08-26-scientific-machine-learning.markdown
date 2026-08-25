@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "To Give and Receive: Scientific Machine Learning"
+title: "To Give and To Receive: Scientific Machine Learning"
 tagline: Single Page
 date: 2026-08-12 13:23
 categories: [AI]
