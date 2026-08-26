@@ -94,7 +94,7 @@ about-widget:
 #############   About   #############
 #####################################
 about-title: Welcome to Scientific Machine Learning
-about-description: If you have time-series anywhere, Scientific Machine Learning measures it directly and exactly, without model building, model training, or model bias, that inevitably lag behind where decisions are made---in the present.  The first step is the SML-Training Viewer (free); core training that will make you unusually well-informed.  On completing the training, the full SML-App Viewer can be downloaded so that you can begin to explore your own time-series. We cordially invite you to share your questions, insights and discoveries with the Scientific Machine Learning community at Fides et Ratio.
+about-description: If you have time-series anywhere, Scientific Machine Learning measures it directly, exactly, and it is available immediately, without model building, model training, or model bias, that inevitably lag behind where decisions are made---in the present.  The first step is the SML-Training Viewer (free); core training that will make you well-informed.  On completing the training, the full SML-App Viewer can be downloaded so that you can begin to explore your own time-series. Finally, we cordially invite you to share your questions, insights and discoveries with the Scientific Machine Learning community at Fides et Ratio.
 
 #####################################
 #############  Features  ############
