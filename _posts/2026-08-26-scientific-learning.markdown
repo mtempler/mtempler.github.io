@@ -8,13 +8,16 @@ tags: [Supply and Demand, Power Grid]
 image: img-04.jpg
 ---
 
-Over the past decade, the 19th century science-of-counting has been resurrected to provide a derivation (Scientific Machine Learning) for conventional Machine Learning that generalizes statistics to probability theory, responds to energy that enters or exits the system (non-mechanical/non-statistical), and can process any time-series to return a complete set of scientific (thermodynamic) measurements as deductive, combinatorial Reality.  
+Over the past decade, the 19th century science-of-counting has been resurrected to provide a derivation for conventional Machine Learning that generalizes statistics to probability theory, correctly reflects the energy that enters or exits the system, and can process any time-series to return a complete set of scientific (thermodynamic) measurements as deductive, combinatorial Reality.  And now that we have a plausible way to explain and understand Machine Learning, we see that Machine is getting far too much credit, since it is only demonstrating the same capabilities that computers did in the 1940-1970s: the evaluation of built-in functions.  Therefore, in the science-of-counting we can suppress "machine" to give: Scientific Learning.  And all credit goes to the human mind, that is capable to understand this deductively.
 
-Conventional machine learning is impressively effective in static, closed world applications, but cannot accommodate changing environments where energy can enter or exit, or, where strain stores energy that is later used, like a battery, already present and measurable explicitly in Scientific Machine Learning (SML).
+Conventional machine learning is impressively effective in static, closed world applications, but cannot accommodate changing environments where energy can enter or exit, or, where strain stores energy that is later used, like an internal battery, already present and measurable explicitly in the time-series data.  We sought to identify problems that share the same overall mathematical structure and shape as Scientific Learning.  The power grid is both historically and structurally the same as Scientific Learning, except that our current grid assumes that the average of the strain vanishes, which is only possible at statistical equilibrium, where it is just as likely to go up as to go down and vanishes on average.  Given renewals, the next generation of power grid must recognize and manage power grid strain.
 
-Ten years ago, we purchased the time-series for SML processing, for example, closing prices on equities.  Four hours after market close, SML processed every stock on the NYSE and NASD in five minutes, and provided a complete set of unbiased scientific measurements to Hedge Fund customers as a file, every trading day for over six years.  Other time-series data explored with customers include:
+As we become aware that assumptions made in the past are badly misleading, so that Reality and the way forward is obscured, it is worth noting that we have a natural on-ramp to the generalization, the science-of-counting evaluated on its time-series, Scientific Learning.  
 
-In recent years, we have worked to identify problems that share the same mathematical structure as Scientific Machine Learning, because those problems stand a good chance of being analytically solvable in combinatorics.  We don't want or need to go into detail here.  Instead, we want to rise above the specific instances, to see the class of problems where SML applies: to Give, and to Receive. 
+Scientific Learning is the Science of Giving and Receiving.  
+
+There are natural coordinates (eigenbasis) that instrument Scientific Learning, the Expected Supply and the Expected Demand, and the Expected Strain for Supply and the Expected Strain for Demand.
+
 
 
 
