@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "To Give and To Receive: Scientific Machine Learning"
+title: "To Give & To Receive: Scientific Learning"
 tagline: Single Page
 date: 2026-08-12 13:23
 categories: [AI]
-tags: [AI in Practice, Supply and Demand, Power Grid]
+tags: [Supply and Demand, Power Grid]
 image: img-04.jpg
 ---
 
