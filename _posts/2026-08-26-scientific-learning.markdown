@@ -14,7 +14,7 @@ Conventional machine learning is impressively effective in static, closed world 
 
 As we become aware that assumptions made in the past are badly misleading, so that Reality and the way forward is obscured, it is worth noting that we have a natural on-ramp to the generalization, the science-of-counting evaluated on its time-series, Scientific Learning.  
 
-Scientific Learning is the Science of Giving and Receiving.  
+In its full generality, **Scientific Learning** is the **Science of Giving and Receiving**.  
 
 There are natural coordinates (eigenbasis) that instrument Scientific Learning, the Expected Supply and the Expected Demand, and the Expected Strain for Supply and the Expected Strain for Demand.
 
