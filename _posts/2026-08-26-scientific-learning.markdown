@@ -8,7 +8,7 @@ tags: [Supply and Demand, Power Grid]
 image: img-04.jpg
 ---
 
-Over the past decade, the 19th century science-of-counting has been resurrected to provide a derivation (Scientific Machine Learning) for conventional Machine Learning that generalizes statistics to probability theory, responds to energy that enters or exits the system (non-mechanical/non-statistical), and can process any time-series to return a complete set of scientific (thermodynamic) measurements as deductive Reality.  
+Over the past decade, the 19th century science-of-counting has been resurrected to provide a derivation (Scientific Machine Learning) for conventional Machine Learning that generalizes statistics to probability theory, responds to energy that enters or exits the system (non-mechanical/non-statistical), and can process any time-series to return a complete set of scientific (thermodynamic) measurements as deductive, combinatorial Reality.  
 
 Conventional machine learning is impressively effective in static, closed world applications, but cannot accommodate changing environments where energy can enter or exit, or, where strain stores energy that is later used, like a battery, already present and measurable explicitly in Scientific Machine Learning (SML).
 
