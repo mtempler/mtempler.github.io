@@ -22,5 +22,12 @@ With both supply and demand time-series, the power grid application realizes the
 
 **Supply and Demand Interactions** 
 
-Given a time-series of electrical power demand (in MWhs), $n_D$, there are natural coordinates (an eigenbasis) in Scientific Learning that define the Expected Demand and its associated Expected Strain. Similarly, given a time-series of electrical power supply (in MWhs), $n_S$, there is another set of natural coordinates (eigenbasis) that define the Expected Supply and its associated Expect Strain.  If the supply and demand were independent, that is, there is no interaction, then $p(n_S n_D) = p(n_S)p(n_D)$. In truth, of course, supply and demand are highly coupled and interact non-trivially, so that $p(n_S n_D)=\Lambda(\lambda_{SD})\,p(n_S)p(n_E)$.  In the combinatorics of the science-of-counting, the function that computes exactly the interaction of the two time-series, $\Lambda(\lambda_{SD})$ as a function of the interaction coupling, $\lambda_{SD}$. 
+Given a time-series of electrical power demand (in MWhs), $$n_D$$, there are natural coordinates (an eigenbasis) in Scientific Learning that define the Expected Demand and its associated Expected Strain. Similarly, given a time-series of electrical power supply (in MWhs), $$n_S$$, there is another set of natural coordinates (eigenbasis) that define the Expected Supply and its associated Expect Strain.  If the supply and demand were independent, that is, there is no interaction, then $$p(n_S n_D) = p(n_S)p(n_D)$$. In truth, of course, supply and demand are highly coupled and interact non-trivially, so that $$p(n_S n_D)=\Lambda(\lambda_{SD})\,p(n_S)p(n_E)$$.  In the combinatorics of the science-of-counting, the function that computes exactly the interaction of the two time-series, $$\Lambda(\lambda_{SD})$$ as a function of the interaction coupling, $$\lambda_{SD}$$. 
+{% raw %}
+$$
+\begin{align}
+p(n_D n_S) &= \Lambda(\lambda_{AB})\, p(n_D)\, p(n_S)
+\end{align}
+$$
+{% endraw %}
 
