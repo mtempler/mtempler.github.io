@@ -8,7 +8,7 @@ tags: [Supply and Demand, Power Grid]
 image: img-04.jpg
 ---
 
-Over the past decade, the 19th century science-of-counting has been resurrected to provide a derivation for conventional Machine Learning that uniquely generalizes statistics to probability theory, allows energy to enter or exit the system, and processes any time-series to return a complete set of scientific (thermodynamic) measurements as deductive, combinatorial Reality.  And now that we have a plausible way to explain and generalize Machine Learning for time-series, we see that Machine is too prominent, because in Scientific Learning, computers do what they have always done: evaluate built-in functions.  In the science-of-counting "machine" can be simplified: Scientific Learning.  
+Over the past decade, the 19th century science-of-counting has been resurrected to provide a combinatorial derivation for conventional Machine Learning that uniquely generalizes statistics to probability theory, allows energy to enter or exit the system, and processes any time-series to return a complete set of scientific (thermodynamic) measurements as deductive Reality.  And now that we have a plausible way to explain and generalize Machine Learning for time-series, we observe that "Machine" and "Artificial Intelligence" is too prominent, because in the science-of-counting, computers do what they have always done: evaluate built-in functions.  In the science-of-counting "machine learning" is simplified to scientific learning.  
 
 Conventional machine learning is impressively effective in static, closed world applications, but cannot accommodate changing environments, where energy can enter or exit, or, where strain can store energy for later release.  To allow energy to enter or exit also allows emotions to enter and exit, as a principle and obvious source of human energy that can both affect the dynamics and anticipate a need.  The science-of-counting evaluated on time-series, that is, Scientific Learning, is the unique generalization to statistical mechanics that recognizes energy flow and energy storage.
 
@@ -22,7 +22,7 @@ With both supply and demand time-series, the power grid application realizes the
 
 **Supply and Demand Interactions** 
 
-Given a time-series of electrical power demand (in MWhs), $$n_D$$, there are natural coordinates (an eigenbasis) in Scientific Learning that define the Expected Demand and its associated Expected Strain. Similarly, given a time-series of electrical power supply (in MWhs), $$n_S$$, the Expected Supply and its associated Expect Strain are defined.  The Lagrangian below enforces supply and demand measurements as constraints, $$\cal{L}_S$$ and $$\cal{L}_D$$, and adds the constraints for interaction measurements, the $$\lambda_{SD}$$ and the $$\sigma_{SD}$$ terms.
+Given a time-series of electrical power demand (in MWhs), $$n_D$$, there are natural coordinates (an eigenbasis) in Scientific Learning that define the Expected Demand and its associated Expected Strain. Similarly, given a time-series of electrical power supply (in MWhs), $$n_S$$, the Expected Supply and its associated Expect Strain are defined.  The Lagrangian below enforces supply and demand measurements as constraints, $$\cal{L}_S$$ and $$\cal{L}_D$$, and adds the constraints for interaction measurements, the $$\lambda_{SD}$$ and the $$\sigma_{SD}$$ terms below.
 {% raw %}
 $$
 \begin{align}
@@ -30,6 +30,14 @@ $$
 \end{align}
 $$
 {% endraw %}  
-If the supply and demand were independent, that is, there is no interaction, then both $$\lambda_{SD}$$ and $$\sigma_{SD}$$ are equal to zero, and $$p(n_S n_D) = p(n_S)p(n_D)$$. In truth, of course, supply and demand are highly coupled and interact non-trivially, so that $$p(n_S n_D)=\Lambda(\lambda_{SD})\,p(n_S)p(n_E)$$.  In the combinatorics of the science-of-counting, the function that computes exactly the interaction of the two time-series, $$\Lambda(\lambda_{SD})$$ as a function of the interaction coupling, $$\lambda_{SD}$$. 
+If the supply and demand time-series were independent, that is, there is no interaction between the two, then the time-series would report that $$\lambda_{SD}$$ and $$\sigma_{SD}$$ are both equal to zero, and that $$p(n_S n_D) = p(n_S)p(n_D)$$. In truth, of course, supply and demand are highly coupled and interact non-trivially, so that 
+{% raw %}
+$$
+\begin{align}
+p(n_S n_D)=\Lambda(\lambda_{SD})\,p(n_S)p(n_E),
+\end{align}
+$$
+{% endraw %}  
+The function that computes exactly the interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function of the interaction coupling, $$\lambda_{SD}$$, that is in general non-zero. 
 
 
