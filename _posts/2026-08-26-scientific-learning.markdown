@@ -22,12 +22,14 @@ With both supply and demand time-series, the power grid application realizes the
 
 **Supply and Demand Interactions** 
 
-Given a time-series of electrical power demand (in MWhs), $$n_D$$, there are natural coordinates (an eigenbasis) in Scientific Learning that define the Expected Demand and its associated Expected Strain. Similarly, given a time-series of electrical power supply (in MWhs), $$n_S$$, there is another set of natural coordinates (eigenbasis) that define the Expected Supply and its associated Expect Strain.  If the supply and demand were independent, that is, there is no interaction, then $$p(n_S n_D) = p(n_S)p(n_D)$$. In truth, of course, supply and demand are highly coupled and interact non-trivially, so that $$p(n_S n_D)=\Lambda(\lambda_{SD})\,p(n_S)p(n_E)$$.  In the combinatorics of the science-of-counting, the function that computes exactly the interaction of the two time-series, $$\Lambda(\lambda_{SD})$$ as a function of the interaction coupling, $$\lambda_{SD}$$. 
+Given a time-series of electrical power demand (in MWhs), $$n_D$$, there are natural coordinates (an eigenbasis) in Scientific Learning that define the Expected Demand and its associated Expected Strain. Similarly, given a time-series of electrical power supply (in MWhs), $$n_S$$, the Expected Supply and its associated Expect Strain are defined.  The Lagrangian below enforces supply and demand measurements as constraints, $$\cal{L}_S$$ and $$\cal{L}_D$$, and adds the constraints for interaction measurements, the $$\lambda_{SD}$$ and the $$\sigma_{SD}$$ terms.
 {% raw %}
 $$
 \begin{align}
-\cal{L} &= \cal{L}_S + \cal{L}_D - \lambda_{SD}\,<n_S n_D> - \sigma_{SD}\,<v_S v_D>.
+\cal{L} &= \cal{L}_S + \cal{L}_D - \lambda_{SD}\,<n_S\,n_D> - \sigma_{SD}\,<v_S\,v_D>.
 \end{align}
 $$
-{% endraw %}
+{% endraw %}  
+If the supply and demand were independent, that is, there is no interaction, then both $$\lambda_{SD}$$ and $$\sigma_{SD}$$ are equal to zero, and $$p(n_S n_D) = p(n_S)p(n_D)$$. In truth, of course, supply and demand are highly coupled and interact non-trivially, so that $$p(n_S n_D)=\Lambda(\lambda_{SD})\,p(n_S)p(n_E)$$.  In the combinatorics of the science-of-counting, the function that computes exactly the interaction of the two time-series, $$\Lambda(\lambda_{SD})$$ as a function of the interaction coupling, $$\lambda_{SD}$$. 
+
 
