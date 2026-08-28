@@ -26,7 +26,7 @@ Given a time-series of electrical power demand (in MWhs), $$n_D$$, there are nat
 {% raw %}
 $$
 \begin{align}
-p(n_D n_S) &= \Lambda(\lambda_{AB})\, p(n_D)\, p(n_S)
+\cal{L} &= \cal{L}_S + \cal{L}_D - \lambda_{SD}\,<n_S n_D> - \sigma_{SD}\,<v_S v_D>.
 \end{align}
 $$
 {% endraw %}
