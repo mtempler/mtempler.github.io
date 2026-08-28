@@ -20,7 +20,7 @@ By examining problems that share the same overall mathematical structure as Scie
 
 With both supply and demand time-series, the power grid application realizes the Science of Giving and Receiving.  It is here that we should learn and improve our skills to manage the non-equilibrium grid operating environment that would support variable energy sources.  The modern power grid is a re-engineering problem that cannot be solved merely through policy.
 
-Given a time-series of electrical power demand (in MWhs), n<sub>D</sub>, there are natural coordinates (eigenbasis) in Scientific Learning that define the Expected Demand and its associated Expected Strain. Similarly, given a time-series of electrical power supply (in MWhs), n<sub>S</sub>, there is another set of natural coordinates (eigenbasis) that define the Expected Supply and its associated Expect Strain.  If the supply and demand were independent, then p(n<sub>D<\sub> n<sub>S</sub>) = p(n<sub>D<\sub>) p(n<sub>S</sub>).  In truth, however, the supply and demand are highly coupled.
+Given a time-series of electrical power demand (in MWhs), n<sub>D</sub>, there are natural coordinates (eigenbasis) in Scientific Learning that define the Expected Demand and its associated Expected Strain. Similarly, given a time-series of electrical power supply (in MWhs), n<sub>S</sub>, there is another set of natural coordinates (eigenbasis) that define the Expected Supply and its associated Expect Strain.  If the supply and demand were independent, then p(n<sub>D</sub> n<sub>S</sub>) = p(n<sub>D</sub>) p(n<sub>S</sub>).  In truth, however, the supply and demand are highly coupled.
 
 
 
