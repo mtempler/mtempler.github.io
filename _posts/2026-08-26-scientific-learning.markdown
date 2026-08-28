@@ -34,7 +34,7 @@ If the supply and demand time-series were independent, that is, there is no inte
 {% raw %}
 $$
 \begin{align}
-p(n_S n_D)=\Lambda(\lambda_{SD})\,p(n_S)p(n_E),
+p(n_S n_D)=\Lambda(\lambda_{SD})\;p(n_S)p(n_D),
 \end{align}
 $$
 {% endraw %}  
