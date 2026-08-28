@@ -14,16 +14,13 @@ Conventional machine learning is impressively effective in static, closed world 
 
 What a gift is the human mind (intuition, intellect and emotions) that is capable to understand deductive Reality.
 
-By examining problems that share the same overall mathematical structure as Scientific Learning, the power grid is seen to have a historical connection and is structurally the same shape as Scientific Learning.  The key difference is that our current grid makes an engineering assumption that the average strains are equal to zero, which is only possible at statistical equilibrium (when it is just as likely to go up as to go down).  Previously, the conventional electrical power grid could ignore strain because generation was controlled. But given renewable energy sources, the next generation of power grid must recognize and manage power grid strains along with the anticipated demand.  
+By examining problems that share the same overall mathematical structure as Scientific Learning, the power grid is seen to have a historical connection and is structurally the same shape as Scientific Learning.  The key difference is that our current grid makes an engineering assumption and simplification that the average strains are equal to zero, which is only possible at statistical equilibrium (when it is just as likely to go up as to go down).  The conventional electrical power grid could ignore strain because generation was controlled. But given renewable energy sources, the next generation of power grid must recognize and manage power grid strains along with the anticipated demand.  
 
-**Scientific Learning** applied to a need, say electrical power, becomes the **Science of Giving and Receiving**.  
+**Scientific Learning** when applied to a need, say electrical power, scientific learning becomes the **Science of Giving and Receiving**.  
 
-With both supply and demand time-series, the power grid application realizes the Science of Giving and Receiving.  It is here that we should learn and improve our skills to manage the non-equilibrium grid operating environment that would support variable energy sources.  The modern power grid is a re-engineering problem that cannot be solved merely through policy.
+With both supply and demand time-series, the power grid application realizes the Science of Giving and Receiving.  And it is this application that we should learn and improve our skills at managing the non-equilibrium grid operating environment that would support variable energy sources.  The modern power grid is a re-engineering problem that cannot be solved merely through policy.
 
-Given a time-series of electrical power demand (in MWhs), n<sub>D</sub>, there are natural coordinates (eigenbasis) in Scientific Learning that define the Expected Demand and its associated Expected Strain. Similarly, given a time-series of electrical power supply (in MWhs), n<sub>S</sub>, there is another set of natural coordinates (eigenbasis) that define the Expected Supply and its associated Expect Strain.  If the supply and demand were independent, then p(n<sub>D</sub> n<sub>S</sub>) = p(n<sub>D</sub>) p(n<sub>S</sub>).  In truth, however, the supply and demand are highly coupled.
+**Supply and Demand Interactions** 
 
-
-
-
-
+Given a time-series of electrical power demand (in MWhs), n<sub>D</sub>, there are natural coordinates (an eigenbasis) in Scientific Learning that define the Expected Demand and its associated Expected Strain. Similarly, given a time-series of electrical power supply (in MWhs), n<sub>S</sub>, there is another set of natural coordinates (eigenbasis) that define the Expected Supply and its associated Expect Strain.  If the supply and demand were independent, that is, no interactions, then p(n<sub>D</sub>n<sub>S</sub>) = p(n<sub>D</sub>)p(n<sub>S</sub>).  In truth, of course, supply and demand are highly coupled and interact non-trivially, so that p(n<sub>D</sub>n<sub>S</sub>) = $\Lambda$($\lambda_{AB}$) p(n<sub>D</sub>)p(n<sub>S</sub>).
 
