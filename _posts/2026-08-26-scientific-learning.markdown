@@ -16,9 +16,7 @@ What a gift is the human mind (intuition, intellect and emotions) that is capabl
 
 By examining problems that share the same overall mathematical structure as Scientific Learning, the power grid is seen to have a historical connection and is structurally the same shape.  The key difference is that our current grid makes an engineering assumption/simplification that the average strains are zero, which is only possible at statistical equilibrium (when it is just as likely to go up as to go down).  The traditional power grid could ignore strain, because power generation was under controlled. But given renewable energy sources, the next generation of power grid must recognize and manage power grid strains along with the supply and demand.  
 
-When applied to a need, say, electrical power, **Scientific Learning** becomes the **Science of Giving and Receiving**.  
-
-With both the supply and demand time-series, the power grid realizes the Science of Giving and Receiving.  The science of giving and receiving is used to re-architect the power grid for non-equilibrium operation to support variable energy sources.  The power grid of the future is a re-engineering problem that is not solved by government policy alone.
+When applied to a need, say, electrical power, **Scientific Learning** becomes the **Science of Giving and Receiving**.  With both the supply and demand time-series, the power grid realizes the Science of Giving and Receiving.  The science of giving and receiving is used to re-architect the power grid for non-equilibrium operation to support variable energy sources.  The power grid of the future is a re-engineering problem that is not solved by government policy alone.
 
 **Supply and Demand Interactions** 
 
@@ -32,7 +30,7 @@ $$
 \end{align}
 $$
 {% endraw %}  
-If the supply and demand time-series are independent, that is, there is no interaction between the two, then the time-series would report that $$\lambda_{SD}$$ and $$\sigma_{SD}$$ are both equal to zero, and, that $$p(n_S n_D) = p(n_S)p(n_D)$$. In truth, of course, supply and demand are highly coupled and interact non-trivially, so that 
+If the supply and demand time-series are independent, that is, there is no interaction between the two, then the time-series would report that the couplings $$\lambda_{SD}$$ and $$\sigma_{SD}$$ are both equal to zero, and that $$p(n_S n_D) = p(n_S)p(n_D)$$. In truth, of course, supply and demand are highly coupled and interact non-trivially, so that 
 {% raw %}
 $$
 \begin{align}
@@ -40,6 +38,6 @@ p(n_S n_D)=\Lambda(\lambda_{SD})\;p(n_S)p(n_D),
 \end{align}
 $$
 {% endraw %}  
-The interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function of the interaction coupling, $$\lambda_{SD}$$.  When $$\Lambda(\lambda_{SD} = 0) = 1$$ the function above reduces correctly. 
+The interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function of the interaction coupling, $$\lambda_{SD}$$.  When $$\Lambda(\lambda_{SD} = 0) = 1$$ the function above reduces correctly to the definition of probabilistic independence.
 
 
