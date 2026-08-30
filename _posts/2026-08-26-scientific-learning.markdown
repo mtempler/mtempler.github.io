@@ -7,9 +7,6 @@ categories: [Machine Learning, Giving-Receiving ]
 tags: [Supply and Demand, Power Grid]
 image: img-04.jpg
 ---
-
-**Forward to the Past**
-
 Over the past decade, the 19th century science-of-counting has been resurrected to provide a combinatorial derivation of conventional Machine Learning that uniquely generalizes statistics to probability theory, allows energy to enter or exit the system, and processes any time-series to return a complete set of scientific (thermodynamic) measurements as deductive Reality.  And now that we have a plausible way to explain and generalize Machine Learning for time-series, we observe that "Machine" and "Artificial Intelligence" are too prominent, because in the science-of-counting computers only do what they have done from the beginning: evaluate built-in functions.  The derivation of the functions is human intelligence, not artificial intelligence. In the science-of-counting "scientific machine learning" is simplified to scientific learning.  
 
 Conventional machine learning is effective in static, closed world applications, but cannot accommodate changing environments, where energy can enter or exit, or, where strain stores energy for later release.  Energy allowed to enter or exit also allows emotional energy to enter and exit, as a principle and obvious source of human energy that can both affect dynamics and anticipate a need.  Scientific learning is the science-of-counting evaluated on time-series that permits energy flow and energy storage, and reduces to statistics when there is no energy entering or exiting the system.
@@ -62,6 +59,7 @@ that fixes how the various momenta (normalized to also be probabilities) must fi
 **Power Grid Demonstration**
 
 For a power grid, the desired output in the momentum/probability distribution (pdf) for demand, $$p(n_D\vert n_S)$$, is given, so that the required supply momentum/pdf that would meet the demand can be calculated, from the coupling curve (solution to the cubic equation) and the product rule in probability theory, $$p(n_S) = p(n_S n_D)/p(n_D\vert n_S)$$.
+
 
 
 
