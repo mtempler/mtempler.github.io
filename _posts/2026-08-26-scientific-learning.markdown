@@ -43,7 +43,7 @@ The interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function
 <figure>
   <img src="/images/blog/PlaneCurve.png" alt="Interaction Probabilities" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
-    The coupling curve defines the interactions
+    The coupling curve that defines the interactions
   </figcaption>
 </figure>
 
