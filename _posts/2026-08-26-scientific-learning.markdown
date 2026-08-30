@@ -50,7 +50,7 @@ The interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function
 
 **Power Grid Demonstration**
 
-For a power grid, the desired output in the momentum/probability distribution (pdf) for demand, $$p(n_D|n_S)$$, is given, so that the required supply momentum/pdf that would meet the demand can be calculated, from the coupling curve (solution to the cubic equation) and the product rule in probability theory, $$p(n_S) = p(n_S n_D)/p(n_D|n_S)$$.
+For a power grid, the desired output in the momentum/probability distribution (pdf) for demand, $$p(n_D\vert n_S)$$, is given, so that the required supply momentum/pdf that would meet the demand can be calculated, from the coupling curve (solution to the cubic equation) and the product rule in probability theory, $$p(n_S) = p(n_S n_D)/p(n_D\vert n_S)$$.
 
 
 
