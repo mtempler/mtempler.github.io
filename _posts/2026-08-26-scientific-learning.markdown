@@ -42,7 +42,7 @@ The interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function
 {% raw %}
 $$
 \begin{align}
-p(n_S n_D)^2=\Big(\frac{\Lambda-1}{\Lambda}\Big)\;p(n_S)p(n_D),
+p^2(n_S n_D)=\Big(\frac{\Lambda-1}{\Lambda}\Big)\;p(n_S)p(n_D),
 \end{align}
 $$
 {% endraw %}  
