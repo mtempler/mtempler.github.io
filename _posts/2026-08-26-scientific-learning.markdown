@@ -8,7 +8,7 @@ tags: [Supply and Demand, Power Grid]
 image: img-04.jpg
 ---
 
-**Back to the Past**
+**Forward to the Past**
 
 Over the past decade, the 19th century science-of-counting has been resurrected to provide a combinatorial derivation of conventional Machine Learning that uniquely generalizes statistics to probability theory, allows energy to enter or exit the system, and processes any time-series to return a complete set of scientific (thermodynamic) measurements as deductive Reality.  And now that we have a plausible way to explain and generalize Machine Learning for time-series, we observe that "Machine" and "Artificial Intelligence" are too prominent, because in the science-of-counting computers only do what they have done from the beginning: evaluate built-in functions.  The derivation of the functions is human intelligence, not artificial intelligence. In the science-of-counting "scientific machine learning" is simplified to scientific learning.  
 
