@@ -41,7 +41,7 @@ $$
 The interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function of the interaction coupling, $$\lambda_{SD}$$.  When $$\Lambda(\lambda_{SD} = 0) = 1$$ the function above reduces correctly to the definition of probabilistic independence.  The interaction defines a plane curve (a Tschirnhausen cubic) that demonstrates how the various momenta (normalized to also be probabilities) must fit together and change in concert.
 
 <figure>
-  <img src="/images/blog/InteractionSoC.png" alt="Interaction Probabilities" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+  <img src="/images/blog/InteractionSoC.png" width="200" height="400" alt="Interaction Probabilities" display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
     Analytical Interactions in the Science of Giving and Receiving
   </figcaption>
