@@ -3,7 +3,7 @@ layout: post
 title: "To Give & To Receive: Scientific Learning"
 tagline: Single Page
 date: 2026-08-12 13:23
-categories: [AI]
+categories: [Machine Learning, Giving-Receiving ]
 tags: [Supply and Demand, Power Grid]
 image: img-04.jpg
 ---
