@@ -38,11 +38,11 @@ p(n_S n_D)=\Lambda(\lambda_{SD})\;p(n_S)p(n_D),
 \end{align}
 $$
 {% endraw %}  
-The interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function of the interaction coupling, $$\lambda_{SD}$$.  When $$\Lambda(\lambda_{SD} = 0) = 1$$ the function above reduces correctly to the definition of probabilistic independence.  Interaction is scientific learning defines a plane curve (a Tschirnhausen cubic),
+The interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function of the interaction coupling, $$\lambda_{SD}$$.  When $$\Lambda(\lambda_{SD} = 0) = 1$$ the function above reduces correctly to the definition of probabilistic independence.  Interaction in scientific learning defines a plane curve (a Tschirnhausen cubic),
 {% raw %}
 $$
 \begin{align}
-p^2(n_S n_D)=\Big(\frac{\Lambda-1}{\Lambda}\Big)\;p(n_S)p(n_D),
+p^2(n_S n_D)= \Big(1-\frac{p(n_S)p(n_D)}{p(n_S n_D)} \Big)\;p(n_S)p(n_D) = \Big(\frac{\Lambda-1}{\Lambda}\Big)\;p(n_S)p(n_D),
 \end{align}
 $$
 {% endraw %}  
