@@ -38,7 +38,7 @@ p(n_S n_D)=\Lambda(\lambda_{SD})\;p(n_S)p(n_D),
 \end{align}
 $$
 {% endraw %}  
-The interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function of the interaction coupling, $$\lambda_{SD}$$.  When $$\Lambda(\lambda_{SD} = 0) = 1$$ the function above reduces correctly to the definition of probabilistic independence.  Interaction in scientific learning defines a plane curve (a Tschirnhausen cubic),
+The interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function of the interaction coupling, $$\lambda_{SD}$$.  When $$\Lambda(\lambda_{SD} = 0) = 1$$, the function above reduces correctly to the definition of independence in probabilities.  Scientific learning defines the interaction through a plane curve (a Tschirnhausen cubic),
 {% raw %}
 $$
 \begin{align}
@@ -54,6 +54,7 @@ that fixes how the various momenta (normalized to also be probabilities) must fi
     Analytical Interactions in the Science of Giving and Receiving
   </figcaption>
 </figure>
+
 
 
 **Power Grid Demonstration**
