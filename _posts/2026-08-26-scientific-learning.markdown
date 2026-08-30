@@ -38,7 +38,15 @@ p(n_S n_D)=\Lambda(\lambda_{SD})\;p(n_S)p(n_D),
 \end{align}
 $$
 {% endraw %}  
-The interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function of the interaction coupling, $$\lambda_{SD}$$.  When $$\Lambda(\lambda_{SD} = 0) = 1$$ the function above reduces correctly to the definition of probabilistic independence.  The interaction defines a plane curve (a Tschirnhausen cubic) that fixes how the various momenta (normalized to also be probabilities) must fit together and change in concert.
+The interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function of the interaction coupling, $$\lambda_{SD}$$.  When $$\Lambda(\lambda_{SD} = 0) = 1$$ the function above reduces correctly to the definition of probabilistic independence.  The interaction defines a plane curve (a Tschirnhausen cubic),
+{% raw %}
+$$
+\begin{align}
+p(n_S n_D)^2=\Big(\frac{\Lambda-1}{\Lambda}\Big)\;p(n_S)p(n_D),
+\end{align}
+$$
+{% endraw %}  
+that fixes how the various momenta (normalized to also be probabilities) must fit together and change in concert.
 
 <figure>
   <img src="/images/blog/InteractionSoC.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
