@@ -38,7 +38,7 @@ p(n_S n_D)=\Lambda(\lambda_{SD})\;p(n_S)p(n_D),
 \end{align}
 $$
 {% endraw %}  
-The interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function of the interaction coupling, $$\lambda_{SD}$$.  When $$\Lambda(\lambda_{SD} = 0) = 1$$ the function above reduces correctly to the definition of probabilistic independence.  The interaction defines a plane curve (a Tschirnhausen cubic) that fixes how the various momenta (normalized to also be probabilities) must fit together and to change in concert.
+The interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function of the interaction coupling, $$\lambda_{SD}$$.  When $$\Lambda(\lambda_{SD} = 0) = 1$$ the function above reduces correctly to the definition of probabilistic independence.  The interaction defines a plane curve (a Tschirnhausen cubic) that fixes how the various momenta (normalized to also be probabilities) must fit together and change in concert.
 
 <figure>
   <img src="/images/blog/InteractionSoC.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
@@ -46,6 +46,8 @@ The interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function
     Analytical Interactions in the Science of Giving and Receiving
   </figcaption>
 </figure>
+
+For a power grid, the desired momentum/probability distribution (pdf) for demand, $$p(n_D|n_S)$$, is given, so that the required supply momentum/pdf that would meet the demand can be calculated from the product rule in probability theory and the , $$p(n_S) = p(n_S n_D)/p(n_D|n_S)$$.
 
 
 
