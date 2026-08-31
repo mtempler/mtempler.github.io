@@ -60,14 +60,14 @@ Using the following identities,
 {% raw %}
 $$
 \begin{align}
-\frac{y}{x} = \frac{p(n_S n_D)}{p(n_S)p(n_D)} = \frac{p(n_S)\vert p(n_D)}{p(n_S)} = \frac{p(n_D)\vert p(n_S)}{p(n_D)},
+\frac{y}{x} = \frac{p(n_S n_D)}{p(n_S)p(n_D)} = \frac{p(n_S\vert n_D)}{p(n_S)} = \frac{p(n_D\vert n_S)}{p(n_D)},
 \end{align}
 $$
 {% endraw %}
-the curve is the same but the axes labels $$x$$ and $$y$$ define a different problem: forward scattering, supply needed for demand, demand needed for supply, respectively.
+the curve is the same but the axis labels $$x$$ and $$y$$ define a different problem: forward and backward scattering, supply needed for demand, demand needed for supply, respectively. An analysis with live time-series data is being prepared for publication.
 
 
-**Power Grid Demonstration**
+**To Give and To Receive**
 
 For a power grid, the desired output in the momentum/probability distribution (pdf) for demand, $$p(n_D\vert n_S)$$, is given, so that the required supply momentum/pdf that would meet the demand can be calculated, from the coupling curve (solution to the cubic equation) and the product rule in probability theory, $$p(n_S) = p(n_S n_D)/p(n_D\vert n_S)$$.
 
