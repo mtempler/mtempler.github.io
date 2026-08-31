@@ -67,12 +67,11 @@ $$
 the curve is the same but the axis labels $$x$$ and $$y$$ define a different problem: forward and backward scattering, supply needed for demand, demand needed for supply, respectively. An analysis with live time-series data is being prepared for publication.
 
 
-**To Give and To Receive**
+**To Give and To Receive** 
 
-We resist the introduction of reward or compensation or barter, because it adds significant complexity to the problem prematurely.  
+The introduction of reward or barter breaks the deductive structure of scientific learning, which we have worked hard to preserve. The moment we introduce currency, models are introduced, in this case, exchange rate models that convert money to displacement energy.  Expect every business process to have its own changing exchange rate: spend for displacement energy.  Exchange rate models imply some degree of control through spend, from which we will manage supply and demand scientifically.
 
-
-
+Giving should meet both physical and spiritual needs, including instruction, counsel, comfort and forgiveness.  For St. Thomas Aquinas, giving and receiving are not merely economic or social acts.  They are moral, spiritual and relational realities that mirror the very life of God. 
 
 
 
