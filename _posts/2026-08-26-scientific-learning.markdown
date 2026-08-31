@@ -45,7 +45,7 @@ p^2(n_S n_D)= \Bigg[1-\frac{p(n_S)p(n_D)}{p(n_S n_D)} \Bigg]\;p(n_S)p(n_D) = \Bi
 \end{align}
 $$
 {% endraw %}  
-that fixes how the various momenta (normalized to also be probabilities) must fit together and change in concert.  See curve below.
+that fixes how the various momenta (normalized to also be probabilities) must fit together and change in concert.  See interaction diagram and coupling curve below.
 
 <figure>
   <img src="/images/blog/InteractionSoC.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
@@ -54,6 +54,7 @@ that fixes how the various momenta (normalized to also be probabilities) must fi
   </figcaption>
 </figure>
 
+To demonstrate with forward scattering, we are given the historical time-series $$n_S$$ and $$n_D$$ and calculate the scientific learning measurements $$p(n_S)$$ and $$p(n_D)$$.  Multiply the measurements, $$p(n_S)p(n_D)$$, and identify the point on the x-axis of the coupling curve, map to the corresponding point on the y-axis, $$p(n_S n_D)$$.  The output with interaction is given by the conditional probabilities $$p(n_S\vert n_D)=p(n_S n_D)/p(n_D)$$ and $$p(n_D\vert n_S)=p(n_S n_D)/p(n_S)$$.
 
 
 **Power Grid Demonstration**
