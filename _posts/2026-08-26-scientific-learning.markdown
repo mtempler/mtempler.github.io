@@ -69,7 +69,8 @@ the curve is the same but the axis labels $$x$$ and $$y$$ define a different pro
 
 **To Give and To Receive**
 
-For a power grid, the desired output in the momentum/probability distribution (pdf) for demand, $$p(n_D\vert n_S)$$, is given, so that the required supply momentum/pdf that would meet the demand can be calculated, from the coupling curve (solution to the cubic equation) and the product rule in probability theory, $$p(n_S) = p(n_S n_D)/p(n_D\vert n_S)$$.
+We resist the introduction of reward or compensation or barter, because it adds significant complexity to the problem prematurely.  
+
 
 
 
