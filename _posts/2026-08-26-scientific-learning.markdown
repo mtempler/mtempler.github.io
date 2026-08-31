@@ -56,6 +56,16 @@ that fixes how the various momenta (normalized to also be probabilities) must fi
 
 To demonstrate with forward scattering, we are given the historical time-series $$n_S$$ and $$n_D$$ and calculate the scientific learning measurements $$p(n_S)$$ and $$p(n_D)$$.  Multiply the measurements, $$p(n_S)p(n_D)$$, and identify the point on the x-axis of the coupling curve, map to the corresponding point on the y-axis, $$p(n_S n_D)$$.  The output with interaction is given by the conditional probabilities $$p(n_S\vert n_D)=p(n_S n_D)/p(n_D)$$ and $$p(n_D\vert n_S)=p(n_S n_D)/p(n_S)$$.
 
+Using the following identities,
+{% raw %}
+$$
+\begin{align}
+\frac{y}{x} = \frac{p(n_S n_D)}{p(n_S)p(n_D)} = \frac{p(n_S)\vert p(n_D)}{p(n_S)} = \frac{p(n_D)\vert p(n_S)}{p(n_D)},
+\end{align}
+$$
+{% endraw %}
+the curve is the same but the axes labels $$x$$ and $$y$$ define a different problem: forward scattering, supply needed for demand, demand needed for supply, respectively.
+
 
 **Power Grid Demonstration**
 
