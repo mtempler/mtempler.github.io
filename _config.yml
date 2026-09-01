@@ -137,17 +137,17 @@ portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex
 # Portfolio Grid
 #
 portfolio-categories:
-  [Websites, Logo, Graphic Design, Development, Video, Photography]
+  [Papers, Websites, Logo, Graphic Design, Development, Video, Photography]
 portfolio:
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
-    categories: [Websites, Graphic Design]
+    categories: [Papers]
     image: img-01.jpg
     url: "#"
 
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
-    categories: [Graphic Design, Logo, Websites]
+    categories: [Websites]
     image: img-02.jpg
     url: "#"
 
