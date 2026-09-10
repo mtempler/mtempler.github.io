@@ -11,7 +11,7 @@ Over the past decade, the 19th century science-of-counting has been resurrected 
 
 Conventional machine learning is effective in static, closed world applications, but cannot accommodate changing environments, where energy can enter or exit, or, where strain stores energy for later release.  Energy allowed to enter or exit also allows emotional energy to enter and exit, as a principle and obvious source of human energy that can both affect dynamics and anticipate a need.  Scientific learning is the science-of-counting evaluated on time-series that permits energy flow and energy storage, and reduces to statistics when there is no energy entering or exiting the system.
 
-What a gift is the human mind (intuition, intellect and emotions) that is capable to understand deductive Reality.
+What a gift is the human mind (intuition, intellect and emotions) that is capable to understand deductive Reality.  On the other hand, human invention plays no role, because everything follows from deduction.
 
 By examining problems that share the same overall mathematical structure as Scientific Learning, the power grid is seen to have a historical connection and is structurally the same shape.  The key difference is that our current grid makes an engineering assumption/simplification that the average strains are zero, which is only possible at statistical equilibrium (when it is just as likely to go up as to go down).  The traditional power grid could ignore strain, because power generation was under controlled. But given renewable energy sources, the next generation of power grid must recognize and manage power grid strains along with the supply and demand.  
 
