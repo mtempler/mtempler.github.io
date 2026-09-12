@@ -41,7 +41,7 @@ so that $$\Lambda(\lambda_{SD}) = 1$$ reduces correctly to the definition of ind
 {% raw %}
 $$
 \begin{align}
-p^2(n_S n_D)= \Bigg[1-\frac{p(n_S)p(n_D)}{p(n_S n_D)} \Bigg]\;p(n_S)p(n_D) = \Bigg[\frac{\Lambda-1}{\Lambda}\Bigg]\;p(n_S)p(n_D),
+p^2(n_S n_D)= \Bigg[1-\frac{p(n_S)p(n_D)}{p(n_S n_D)} \Bigg]\;p(n_S)p(n_D) = \Bigg[\Lambda(\Lambda-1)\Bigg]\;p(n_S)p(n_D),
 \end{align}
 $$
 {% endraw %}  
