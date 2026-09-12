@@ -29,15 +29,15 @@ $$
 \end{align}
 $$
 {% endraw %}  
-If the supply and demand time-series are independent, that is, there is no interaction between the two, then the time-series would report that the couplings $$\lambda_{SD}$$ and $$\sigma_{SD}$$ are both equal to zero, and that $$p(n_S n_D) = p(n_S)p(n_D)$$. In truth, of course, supply and demand are highly coupled and interact non-trivially, so that 
+If the supply and demand time-series are independent, that is, there is no interaction between the two, then the time-series would report that the couplings $$\lambda_{SD}$$ and $$\sigma_{SD}$$ are both equal to zero, and that $$p(n_S n_D) = p(n_S)p(n_D)$$. In truth, of course, supply and demand are generally highly coupled and interact non-trivially.  We define the interaction of the two time-series by 
 {% raw %}
 $$
 \begin{align}
-p(n_S n_D)=\Lambda(\lambda_{SD})\;p(n_S)p(n_D),
+\Lambda(\lambda_{SD}) \equiv \frac{p(n_S)p(n_D)}{p(n_S n_D)},
 \end{align}
 $$
 {% endraw %}  
-The interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function of the interaction coupling, $$\lambda_{SD}$$.  When $$\Lambda(\lambda_{SD} = 0) = 1$$, the function above reduces correctly to the definition of independence in probabilities.  Scientific learning defines the interaction algebraically, as a plane cubic curve (a Tschirnhausen cubic),
+so that $$\Lambda(\lambda_{SD}) = 1$$ reduces correctly to the definition of independence in probabilities, and is a function of the interaction coupling, $$\lambda_{SD}$$.  Scientific learning captures the interaction algebraically, as a plane cubic curve (a Tschirnhausen cubic),
 {% raw %}
 $$
 \begin{align}
