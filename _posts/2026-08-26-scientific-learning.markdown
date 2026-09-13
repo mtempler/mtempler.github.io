@@ -21,27 +21,27 @@ When applied to a "need", say, electrical power, **Scientific Learning** becomes
 
 The functions that define the relationship between energy, momentum and velocity, E=pv, are deduced in the science-of-counting. To manage supply and demand the same analysis is deductively extended to interactions as well.  A high-level picture of the interaction science is presented here.
 
-Given a time-series for electrical energy demand (in MWh), $$n_D$$, there are natural coordinates (an eigenbasis) in scientific learning that define the Expected Demand and its associated Expected Strain. Similarly, given a time-series for power supply (in MWh), $$n_S$$, the Expected Supply and its associated Expect Strain are defined.  The Lagrangian below enforces supply and demand measurements as constraints, $$\cal{L}_S$$ and $$\cal{L}_D$$, and furthermore adds the constraints for interaction measurements, the $$\lambda_{SD}$$ and the $$\sigma_{SD}$$ terms below.
+Given a time-series for electrical energy demand (in MWh), $$n_A$$, there are natural coordinates (an eigenbasis) in scientific learning that define the Expected Demand and its associated Expected Strain. Similarly, given a time-series for power supply (in MWh), $$n_A$$, the Expected Supply and its associated Expect Strain are defined.  The Lagrangian below enforces supply and demand measurements as constraints, $$\cal{L}_A$$ and $$\cal{L}_B$$, and furthermore adds the constraints for interaction measurements, the $$\lambda_{AB}$$ and the $$\sigma_{AB}$$ terms below.
 {% raw %}
 $$
 \begin{align}
-\cal{L} &= \cal{L}_S + \cal{L}_D - \lambda_{SD}\,<n_S\,n_D> - \,\sigma_{SD}\,<v_S\,v_D>.
+\cal{L} &= \cal{L}_A + \cal{L}_B - \lambda_{AB}\,<n_A\,n_B> - \,\sigma_{AB}\,<v_A\,v_B>.
 \end{align}
 $$
 {% endraw %}  
-If the supply and demand time-series are independent, that is, there is no interaction between the two, then the time-series would report that the couplings $$\lambda_{SD}$$ and $$\sigma_{SD}$$ are both equal to zero, and that $$p(n_S n_D) = p(n_S)p(n_D)$$. In truth, of course, supply and demand are generally highly coupled and interact non-trivially.  We define the interaction of the two time-series by 
+If the supply and demand time-series are independent, that is, there is no interaction between the two, then the time-series would report that the couplings $$\lambda_{AB}$$ and $$\sigma_{AB}$$ are both equal to zero, and that $$p(n_A n_B) = p(n_A)p(n_B)$$. In truth, of course, supply and demand are generally highly coupled and interact non-trivially.  We define the interaction of the two time-series by 
 {% raw %}
 $$
 \begin{align}
-\Lambda(\lambda_{SD}) \equiv \frac{p(n_S)p(n_D)}{p(n_S n_D)},
+\Lambda(\lambda_{AB}) \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)},
 \end{align}
 $$
 {% endraw %}  
-so that $$\Lambda(\lambda_{SD}) = 1$$ reduces correctly to the definition of independence in probabilities, and is a function of the interaction coupling, $$\lambda_{SD}$$.  Scientific learning captures the interaction algebraically, as a plane cubic curve (a Tschirnhausen cubic),
+so that $$\Lambda(\lambda_{AB}) = 1$$ reduces correctly to the definition of independence in probabilities, and is a function of the interaction coupling, $$\lambda_{AB}$$.  Scientific learning captures the interaction algebraically, as a plane cubic curve (a Tschirnhausen cubic),
 {% raw %}
 $$
 \begin{align}
-p^2(n_S n_D)= \Bigg[1-\frac{p(n_S)p(n_D)}{p(n_S n_D)} \Bigg]\;p(n_S)p(n_D) = \Big[1-\Lambda\Big]\;p(n_S)p(n_D),
+p^2(n_A n_B)= \Bigg[1-\frac{p(n_A)p(n_B)}{p(n_A n_B)} \Bigg]\;p(n_A)p(n_B) = \Big[1-\Lambda\Big]\;p(n_A)p(n_B),
 \end{align}
 $$
 {% endraw %}  
@@ -54,13 +54,13 @@ that fixes how the various momenta (normalized to also be probabilities) must fi
   </figcaption>
 </figure>
 
-To demonstrate with forward scattering, we are given the historical time-series $$A=n_S$$ and $$B=n_D$$ and calculate the scientific learning measurements $$p(n_S)$$ and $$p(n_D)$$.  Multiply the measurements, $$p(n_S)p(n_D)$$, and identify the point on the x-axis of the coupling curve, map to the corresponding point on the y-axis, $$p(n_S n_D)$$.  The output with interaction is given by the conditional probabilities $$p(n_S\vert n_D)=p(n_S n_D)/p(n_D)$$ and $$p(n_D\vert n_S)=p(n_S n_D)/p(n_S)$$.
+To demonstrate with forward scattering, we are given the historical time-series $$A=n_A$$ and $$B=n_B$$ and calculate the scientific learning measurements $$p(n_A)$$ and $$p(n_B)$$.  Multiply the measurements, $$p(n_A)p(n_B)$$, and identify the point on the x-axis of the coupling curve, map to the corresponding point on the y-axis, $$p(n_A n_B)$$.  The output with interaction is given by the conditional probabilities $$p(n_A\vert n_B)=p(n_A n_B)/p(n_B)$$ and $$p(n_B\vert n_A)=p(n_A n_B)/p(n_A)$$.
 
 Using the following identities,
 {% raw %}
 $$
 \begin{align}
-\frac{y}{x} = \frac{p(n_S n_D)}{p(n_S)p(n_D)} = \frac{p(n_S\vert n_D)}{p(n_S)} = \frac{p(n_D\vert n_S)}{p(n_D)},
+\frac{y}{x} = \frac{p(n_A n_B)}{p(n_A)p(n_B)} = \frac{p(n_A\vert n_B)}{p(n_A)} = \frac{p(n_B\vert n_A)}{p(n_B)},
 \end{align}
 $$
 {% endraw %}
