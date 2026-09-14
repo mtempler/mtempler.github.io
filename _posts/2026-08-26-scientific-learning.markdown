@@ -42,7 +42,7 @@ so that when $$\Lambda = 1$$, the equation reduces correctly to the definition o
 $$
 \begin{align}
 p^2(n_A n_B)= \Bigg[1-\frac{p(n_A)p(n_B)}{p(n_A n_B)} \Bigg]\;p(n_A)p(n_B) &\quad \Rightarrow\quad p(n_A n_B) = \Lambda (1-\Lambda) \\
-&\quad \Rightarrow\quad \Lambda(p_{AB}) = \frac{1}{2} \pm \sqrt{\frac{1}{4} - p_{AB}}.
+&\quad \Rightarrow\quad \Lambda(p_{AB}) = \frac{1}{2} \pm \sqrt{\frac{1}{4} - p(n_A n_B)}.
 \end{align}
 $$
 {% endraw %}  
