@@ -68,7 +68,7 @@ the curve is the same but the axis labels $$x$$ and $$y$$ define a different pro
 
 **To Give and To Receive** 
 
-The introduction of money breaks the deductive structure of scientific learning, which we have worked hard to preserve. The moment we introduce currency, models are introduced, in this case, exchange rate models that convert money to displacement energy.  Expect every business process to have its own change exchange rate: spend for a displacement energy.  Exchange rate models imply some degree of control through spend, from which we will manage supply and demand scientifically.
+The introduction of money breaks the deductive structure of scientific learning, which we have worked hard to preserve. The moment we introduce currency, models are introduced, in this case, exchange rate models that convert money to displacement energy.  Expect every business process to have its own exchange rate: spend for a displacement energy.  Exchange rate models imply some degree of control through spend, from which we will manage supply and demand scientifically.
 
 Giving should meet both physical and spiritual needs, including instruction, counsel, comfort and forgiveness.  For St. Thomas Aquinas, giving and receiving are not merely economic or social acts.  They are moral, spiritual and relational realities that mirror the very life of God. 
 
