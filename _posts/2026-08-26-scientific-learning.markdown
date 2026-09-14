@@ -7,7 +7,7 @@ categories: [Machine Learning, Giving-Receiving ]
 tags: [Supply and Demand, Power Grid]
 image: img-04.jpg
 ---
-Over the past decade, the 19th century science-of-counting has been resurrected to provide a combinatorial derivation of conventional Machine Learning that uniquely generalizes statistics to probability theory, allows energy to enter or exit the system, and processes any time-series to return a complete set of scientific (thermodynamic) measurements as deductive Reality.  And now with a plausible way to explain and generalize Machine Learning for time-series, we observe that "Machine" and "Artificial Intelligence" are too prominent in this case, because in the science-of-counting computers only do what they have done from the beginning: evaluate built-in functions.  The derivation of the functions is human intelligence, not artificial intelligence. In the science-of-counting "scientific machine learning" will be simplified to scientific learning.  
+Over the past decade, the 19th century science-of-counting has been resurrected to provide a combinatorial derivation of conventional Machine Learning that uniquely generalizes statistics to probability theory, allows energy to enter or exit the system, and processes any time-series to return a complete set of scientific (thermodynamic) measurements as deductive reality.  And now with a plausible way to explain and generalize Machine Learning for time-series, we observe that "Machine" and "Artificial Intelligence" are too prominent in this case, because in the science-of-counting computers only do what they have done from the beginning: evaluate built-in functions.  The derivation of the functions is human intelligence, not artificial intelligence. In the science-of-counting "scientific machine learning" will be simplified to scientific learning.  
 
 Conventional machine learning is effective in static, closed world applications, but cannot accommodate changing environments, where energy can enter or exit, or, where energy is stored for later release.  Energy allowed to enter or exit a system should also allow emotional energy to enter and exit, as it is the principle and obvious source of human energy that can both affect dynamics and anticipate a need.  Scientific learning is the combinatorial science-of-counting evaluated on time-series that permit both energy flow and energy storage, and reduces correctly to statistics when there is no energy entering or exiting the system.
 
@@ -19,9 +19,9 @@ When applied to a "need", say, electrical power, **Scientific Learning** becomes
 
 **Supply and Demand Interactions** 
 
-The functions that define the relationship between energy, momentum and velocity, E=pv, are deduced in the science-of-counting. To manage supply and demand the same analysis is deductively extended to interactions as well.  A high-level picture of the interaction science is presented here.
+The functions that define the relationship between energy, momentum and velocity, E=pv, are deduced in the science-of-counting (the dispersion relation). To manage supply and demand the same analysis is deductively extended to interactions as well.  A high-level picture of the interaction science is presented here.
 
-Given a time-series for electrical energy demand (in MWh), $$n_A$$, there are natural coordinates (an eigenbasis) in scientific learning that define the Expected Demand and its associated Expected Strain. Similarly, given a time-series for power supply (in MWh), $$n_A$$, the Expected Supply and its associated Expect Strain are defined.  The Lagrangian below enforces supply and demand measurements as constraints, $$\cal{L}_A$$ and $$\cal{L}_B$$, and furthermore adds the constraints for interaction measurements, the $$\lambda_{AB}$$ and the $$\sigma_{AB}$$ terms below.
+Given a time-series for electrical energy supply (in MWh), $$n_A$$, there are natural coordinates (an eigenbasis) in scientific learning that define the Expected Supply and its associated Expected Strain. Similarly, given a time-series for energy demand (in MWh), $$n_B$$, the Expected Demand and its associated Expect Strain are defined.  The Lagrangian below enforces supply and demand measurements as constraints, $$\cal{L}_A$$ and $$\cal{L}_B$$, and moreover adds the constraints for interaction measurements, with the Lagrange multipliers $$\lambda_{AB}$$ and the $$\sigma_{AB}$$ terms below.
 {% raw %}
 $$
 \begin{align}
@@ -29,15 +29,15 @@ $$
 \end{align}
 $$
 {% endraw %}  
-If the supply and demand time-series are independent, that is, there is no interaction between the two, then the time-series would report that the couplings $$\lambda_{AB}$$ and $$\sigma_{AB}$$ are both equal to zero, and that $$p(n_A n_B) = p(n_A)p(n_B)$$. In truth, of course, supply and demand are generally highly coupled and interact non-trivially.  We define the interaction of the two time-series by 
+If the supply and demand time-series are independent, that is, there is no interaction between the two, then the time-series would report that the couplings $$\lambda_{AB}$$ and $$\sigma_{AB}$$ are both equal to zero, and that $$p(n_A n_B) = p(n_A)p(n_B)$$. In truth, of course, supply and demand are highly coupled and interact non-trivially.  We introduce the interaction, $$\Lambda$$, of two time-series as 
 {% raw %}
 $$
 \begin{align}
-\Lambda(\lambda_{AB}) \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)},
+\Lambda(p_{AB}) \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)},
 \end{align}
 $$
 {% endraw %}  
-so that $$\Lambda(\lambda_{AB}) = 1$$ reduces correctly to the definition of independence in probabilities, and is a function of the interaction coupling, $$\lambda_{AB}$$.  Scientific learning captures the interaction algebraically, as a plane cubic curve (a Tschirnhausen cubic),
+so that when $$\Lambda(p_{AB}) = 1$$, the equation reduces correctly to the definition of independence in probabilities. In general, scientific learning derives the interaction algebraically as a plane cubic curve that fixes how the various momenta (normalized to also be probabilities) must fit together and change in concert (as a Tschirnhausen cubic):
 {% raw %}
 $$
 \begin{align}
@@ -45,7 +45,7 @@ p^2(n_A n_B)= \Bigg[1-\frac{p(n_A)p(n_B)}{p(n_A n_B)} \Bigg]\;p(n_A)p(n_B) = \Bi
 \end{align}
 $$
 {% endraw %}  
-that fixes how the various momenta (normalized to also be probabilities) must fit together and change in concert.  See interaction diagram and coupling curve below.
+See the interaction diagram and coupling curve below.  The top figure summarizes how the direct, conditional and joint momenta/probabilities are related and are used to detect interactions at a given time-stamp.
 
 <figure>
   <img src="/images/blog/InteractionSoC.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
@@ -53,6 +53,7 @@ that fixes how the various momenta (normalized to also be probabilities) must fi
     Analytical Interactions in the Science of Giving and Receiving
   </figcaption>
 </figure>
+The cubic coupling curve is plotted above.  The diagonal reports independence, and the cubic curves above and below the diagonal correspond to attractive and repulsive combinatorial forces, and in order to do work, extension and compression, respectively.  
 
 To demonstrate with forward scattering, we are given the historical time-series $$A=n_A$$ and $$B=n_B$$ and calculate the scientific learning measurements $$p(n_A)$$ and $$p(n_B)$$.  Multiply the measurements, $$p(n_A)p(n_B)$$, and identify the point on the x-axis of the coupling curve, map to the corresponding point on the y-axis, $$p(n_A n_B)$$.  The output with interaction is given by the conditional probabilities $$p(n_A\vert n_B)=p(n_A n_B)/p(n_B)$$ and $$p(n_B\vert n_A)=p(n_A n_B)/p(n_A)$$.
 
