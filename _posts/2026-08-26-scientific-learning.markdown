@@ -29,11 +29,11 @@ $$
 \end{align}
 $$
 {% endraw %}  
-If the supply and demand time-series are independent, that is, there is no interaction between the two, then the time-series would report that the couplings $$\lambda_{AB}$$ and $$\sigma_{AB}$$ are both equal to zero, and that $$p(n_A n_B) = p(n_A)p(n_B)$$. In truth, of course, supply and demand are highly coupled and interact non-trivially.  We introduce the interaction function, $$\Lambda$$, of two time-series as 
+If the supply and demand time-series are independent, that is, there is no interaction between the two, then the time-series would report that the couplings $$\lambda_{AB}$$ and $$\sigma_{AB}$$ are both equal to zero, and that $$p(n_A n_B) = p(n_A)p(n_B)$$. In truth, of course, supply and demand are highly coupled and interact non-trivially.  We introduce the interaction function, $$\Lambda$$, of two time-series and its solution function in scientific learning 
 {% raw %}
 $$
 \begin{align}
-\Lambda \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)},
+\Lambda \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)} = \frac{1}{2} \pm \sqrt{\frac{1}{4} - p_{AB}},
 \end{align}
 $$
 {% endraw %}  
