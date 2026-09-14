@@ -29,11 +29,11 @@ $$
 \end{align}
 $$
 {% endraw %}  
-If the supply and demand time-series are independent, that is, there is no interaction between the two, then the time-series would report that the couplings $$\lambda_{AB}$$ and $$\sigma_{AB}$$ are both equal to zero, and that $$p(n_A n_B) = p(n_A)p(n_B)$$. In truth, of course, supply and demand are highly coupled and interact non-trivially.  We introduce the interaction function, $$\Lambda$$, of two time-series and its solution function in scientific learning 
+If the supply and demand time-series are independent, that is, there is no interaction between the two, then the time-series would report that the couplings $$\lambda_{AB}$$ and $$\sigma_{AB}$$ are both equal to zero, and that $$p(n_A n_B) = p(n_A)p(n_B)$$. In truth, of course, supply and demand are highly coupled and interact non-trivially.  For convenience, we introduce the interaction function, $$\Lambda$$, of two time-series, and its solution function in scientific learning 
 {% raw %}
 $$
 \begin{align}
-\Lambda \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)} = \frac{1}{2} \pm \sqrt{\frac{1}{4} - p_{AB}},
+\Lambda \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)},
 \end{align}
 $$
 {% endraw %}  
@@ -41,7 +41,7 @@ so that when $$\Lambda = 1$$, the equation reduces correctly to the definition o
 {% raw %}
 $$
 \begin{align}
-p^2(n_A n_B)= \Bigg[1-\frac{p(n_A)p(n_B)}{p(n_A n_B)} \Bigg]\;p(n_A)p(n_B) \quad \Rightarrow\quad p(n_A n_B) = \Lambda (1-\Lambda).
+p^2(n_A n_B)= \Bigg[1-\frac{p(n_A)p(n_B)}{p(n_A n_B)} \Bigg]\;p(n_A)p(n_B) \quad \Rightarrow\quad p(n_A n_B) = \Lambda (1-\Lambda) \quad \Rightarrow\quad \Lambda(p_{AB}) = \frac{1}{2} \pm \sqrt{\frac{1}{4} - p_{AB}}.
 \end{align}
 $$
 {% endraw %}  
