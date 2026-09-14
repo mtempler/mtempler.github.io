@@ -37,7 +37,7 @@ $$
 \end{align}
 $$
 {% endraw %}  
-so that when $$\Lambda = 1$$, the equation reduces correctly to the definition of probability independence. In general, scientific learning derives the interaction function algebraically as a plane cubic curve that fixes how the various momenta (normalized to also be probabilities) must fit together and change in concert (as a Tschirnhausen cubic):
+so that when $$\Lambda = 1$$, the equation reduces correctly to the definition of probability independence. In general, scientific learning derives the interaction function algebraically, as a plane cubic curve that fixes how the various momenta (normalized to also be probabilities) must fit together and change in concert (as a Tschirnhausen cubic):
 {% raw %}
 $$
 \begin{align}
