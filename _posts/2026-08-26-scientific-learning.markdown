@@ -45,15 +45,15 @@ p^2(n_A n_B)= \Bigg[1-\frac{p(n_A)p(n_B)}{p(n_A n_B)} \Bigg]\;p(n_A)p(n_B) = \Bi
 \end{align}
 $$
 {% endraw %}  
-See the interaction diagram and coupling curve below.  The top figure summarizes how the direct, conditional and joint momenta/probabilities are related and are used to detect interactions at a given time-stamp.
+See the interaction diagram and coupling curve below.
 
 <figure>
   <img src="/images/blog/InteractionSoC.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
-    Analytical Interactions in the Science of Giving and Receiving
+    Analytical Interactions in the Science of Giving and Receiving.  The top figure summarizes how the direct, conditional and joint momenta/probabilities are related and are used to detect interactions at a given time-stamp.  The cubic coupling curve is also plotted.  The diagonal reports independence, and the cubic curves above and below the diagonal correspond to attractive and repulsive combinatorial forces, and to perform work, extension and compression, respectively.
   </figcaption>
 </figure>
-The cubic coupling curve is plotted above.  The diagonal reports independence, and the cubic curves above and below the diagonal correspond to attractive and repulsive combinatorial forces, and to perform work, extension and compression, respectively.  
+  
 
 To demonstrate with forward scattering, we are given the historical time-series $$A=n_A$$ and $$B=n_B$$ and calculate the scientific learning measurements $$p(n_A)$$ and $$p(n_B)$$.  Multiply the measurements, $$p(n_A)p(n_B)$$, and identify the point on the x-axis of the coupling curve, map to the corresponding point on the y-axis, $$p(n_A n_B)$$.  The output with interaction is given by the conditional probabilities $$p(n_A\vert n_B)=p(n_A n_B)/p(n_B)$$ and $$p(n_B\vert n_A)=p(n_A n_B)/p(n_A)$$.
 
