@@ -53,10 +53,8 @@ See the interaction diagram and coupling curve below.
     Analytical Interactions in the Science of Giving and Receiving.  The top figure summarizes how the direct, conditional and joint momenta/probabilities are related and are used to detect interactions at a given time-stamp.  The cubic coupling curve is also plotted.  The diagonal reports independence, and the cubic curves above and below the diagonal correspond to attractive and repulsive combinatorial forces, and to perform work, extension and compression, respectively.
   </figcaption>
 </figure>
-  
 
-To demonstrate with forward scattering, we are given the historical time-series $$A=n_A$$ and $$B=n_B$$ and calculate the scientific learning measurements $$p(n_A)$$ and $$p(n_B)$$.  Multiply the measurements, $$p(n_A)p(n_B)$$, and identify the point on the x-axis of the coupling curve, map to the corresponding point on the y-axis, $$p(n_A n_B)$$.  The output with interaction is given by the conditional probabilities $$p(n_A\vert n_B)=p(n_A n_B)/p(n_B)$$ and $$p(n_B\vert n_A)=p(n_A n_B)/p(n_A)$$.
-
+** **
 Using the following identities,
 {% raw %}
 $$
