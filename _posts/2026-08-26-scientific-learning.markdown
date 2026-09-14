@@ -29,15 +29,15 @@ $$
 \end{align}
 $$
 {% endraw %}  
-If the supply and demand time-series are independent, that is, there is no interaction between the two, then the time-series would report that the couplings $$\lambda_{AB}$$ and $$\sigma_{AB}$$ are both equal to zero, and that $$p(n_A n_B) = p(n_A)p(n_B)$$. In truth, of course, supply and demand are highly coupled and interact non-trivially.  We introduce the interaction, $$\Lambda$$, of two time-series as 
+If the supply and demand time-series are independent, that is, there is no interaction between the two, then the time-series would report that the couplings $$\lambda_{AB}$$ and $$\sigma_{AB}$$ are both equal to zero, and that $$p(n_A n_B) = p(n_A)p(n_B)$$. In truth, of course, supply and demand are highly coupled and interact non-trivially.  We introduce the interaction function, $$\Lambda$$, of two time-series as 
 {% raw %}
 $$
 \begin{align}
-\Lambda(p_{AB}) \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)},
+\Lambda \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)},
 \end{align}
 $$
 {% endraw %}  
-so that when $$\Lambda(p_{AB}) = 1$$, the equation reduces correctly to the definition of independence in probabilities. In general, scientific learning derives the interaction algebraically as a plane cubic curve that fixes how the various momenta (normalized to also be probabilities) must fit together and change in concert (as a Tschirnhausen cubic):
+so that when $$\Lambda = 1$$, the equation reduces correctly to the definition of probability independence. In general, scientific learning derives the interaction function algebraically as a plane cubic curve that fixes how the various momenta (normalized to also be probabilities) must fit together and change in concert (as a Tschirnhausen cubic):
 {% raw %}
 $$
 \begin{align}
@@ -53,7 +53,7 @@ See the interaction diagram and coupling curve below.  The top figure summarizes
     Analytical Interactions in the Science of Giving and Receiving
   </figcaption>
 </figure>
-The cubic coupling curve is plotted above.  The diagonal reports independence, and the cubic curves above and below the diagonal correspond to attractive and repulsive combinatorial forces, and in order to do work, extension and compression, respectively.  
+The cubic coupling curve is plotted above.  The diagonal reports independence, and the cubic curves above and below the diagonal correspond to attractive and repulsive combinatorial forces, and to perform work, extension and compression, respectively.  
 
 To demonstrate with forward scattering, we are given the historical time-series $$A=n_A$$ and $$B=n_B$$ and calculate the scientific learning measurements $$p(n_A)$$ and $$p(n_B)$$.  Multiply the measurements, $$p(n_A)p(n_B)$$, and identify the point on the x-axis of the coupling curve, map to the corresponding point on the y-axis, $$p(n_A n_B)$$.  The output with interaction is given by the conditional probabilities $$p(n_A\vert n_B)=p(n_A n_B)/p(n_B)$$ and $$p(n_B\vert n_A)=p(n_A n_B)/p(n_A)$$.
 
