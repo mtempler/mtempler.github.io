@@ -142,50 +142,21 @@ portfolio:
   # Portfolio Item
   - title: Scientific Machine Learning
     categories: [Articles]
-    image: img-04.jpg
+    image: img-01.jpg
     url: "#" # TODO: replace with the article's actual URL
 
   # Portfolio Item
   - title: Decision Making in Scientific Machine Learning
     categories: [Articles]
-    image: img-04.jpg
+    image: img-01.jpg
     url: "#" # TODO: replace with the article's actual URL
 
   # Portfolio Item
   - title: Scientific Machine Learning for Power Grids
     categories: [Articles]
-    image: img-04.jpg
+    image: img-01.jpg
     url: "#" # TODO: replace with the article's actual URL
 
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Websites, Video, Photography]
-    image: img-05.jpg
-    url: "#"
-
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Development, Logo]
-    image: img-06.jpg
-    url: "#"
-
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Development, Video]
-    image: img-07.jpg
-    url: "#"
-
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Websites, Graphic Design]
-    image: img-08.jpg
-    url: "#"
-
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Photography, Logo]
-    image: img-09.jpg
-    url: "#"
 
 #####################################
 ##########  Core Features  ##########
