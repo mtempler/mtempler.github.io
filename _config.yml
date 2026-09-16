@@ -131,59 +131,53 @@ blog-description: Lessons learned and directions to explore.
 ############  Portfolio  ############
 #####################################
 portfolio-title: Portfolio
-portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis.
+portfolio-description: Published articles on Scientific Machine Learning and its applications.
 
 #
 # Portfolio Grid
 #
 portfolio-categories:
-  [Papers, Websites, Logo, Graphic Design, Development, Video, Photography]
+  [Articles, Websites, Blogs, Case Studies]
 portfolio:
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Papers]
-    image: img-01.jpg
-    url: "#"
+  - title: Scientific Machine Learning
+    categories: [Articles]
+    image: img-04.jpg
+    url: "#" # TODO: replace with the article's actual URL
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Websites]
-    image: img-02.jpg
-    url: "#"
+  - title: Decision Making in Scientific Machine Learning
+    categories: [Articles]
+    image: img-04.jpg
+    url: "#" # TODO: replace with the article's actual URL
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Graphic Design, Logo, Photography]
-    image: img-03.jpg
-    url: "#"
+  - title: Scientific Machine Learning for Power Grids
+    categories: [Articles]
+    image: img-04.jpg
+    url: "#" # TODO: replace with the article's actual URL
 
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
     categories: [Websites, Video, Photography]
-    image: img-04.jpg
-    url: "#"
-
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Development, Logo]
     image: img-05.jpg
     url: "#"
 
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
-    categories: [Development, Video]
+    categories: [Development, Logo]
     image: img-06.jpg
     url: "#"
 
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
-    categories: [Websites, Graphic Design]
+    categories: [Development, Video]
     image: img-07.jpg
     url: "#"
 
   # Portfolio Item
   - title: S<span class="thin">era</span> Style
-    categories: [Websites, Video]
+    categories: [Websites, Graphic Design]
     image: img-08.jpg
     url: "#"
 
