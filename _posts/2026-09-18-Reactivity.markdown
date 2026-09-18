@@ -31,17 +31,17 @@ Define the interaction function, $$\Lambda$$, of the two time-series by
 {% raw %}
 $$
 \begin{align}
-\Lambda \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)},
+\Lambda \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)} \equiv \frac{p_A p_B)}{p_AB},
 \end{align}
 $$
 {% endraw %}
-where the science-of-counting interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, takes the simple form
+and a simplified notation is introduced.  The science-of-counting produces the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, takes the simple form with solutions
 $$
 \begin{align}
 p_{AB} = \Lambda (1-\Lambda) \Rightarrow \Lambda = \frac{1}{2} \pm \sqrt{\frac{1}{4} - p_{AB}}.
 \end{align}
 $$
-The momentum, $$p_{AB}$$, is normalized so that $$1\ge p_{AB}\ge 0$$.  What happens between $$1\ge p_{AB}\ge 1/4$$?
+The joint momentum, $$p_{AB}$$, has already been normalized, so that $$1\ge p_{AB}\ge 0$$.  What happens between $$1\ge p_{AB}\ge 1/4$$?
 
 <figure>
   <img src="/images/blog/p_AB_interaction.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
