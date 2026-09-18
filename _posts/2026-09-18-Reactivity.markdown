@@ -35,13 +35,13 @@ $$
 \end{align}
 $$
 {% endraw %}
-so that the Tschirnhausen cubic curve, $$y^2 = x(1-x/y)$$, takes the form
+where the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, takes the form
 $$
 \begin{align}
-p(n_A n_B) = \Lambda (1-\Lambda).
+p_{AB} = \Lambda (1-\Lambda).
 \end{align}
 $$
-The momentum, $$p(n_A n_B)$$, is normalized so that $$1\ge p(n_A n_B)\ge 0$$.  What happens between $$1\ge p(n_A n_B)\ge 1/4$$?
+The momentum, $$p_{AB}$$, is normalized so that $$1\ge p_{AB}\ge 0$$.  What happens between $$1\ge p_{AB}\ge 1/4$$?
 
 <figure>
   <img src="/images/blog/p_AB_interaction.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
