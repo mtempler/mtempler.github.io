@@ -2,7 +2,7 @@
 layout: post
 title: "To Give & To Receive: Cooperation"
 tagline: Single Page
-date: 2026-08-12 13:23
+date: 2026-09-18 09:23
 categories: [Machine Learning, Giving-Receiving ]
 tags: [Supply and Demand, Power Grid]
 image: img-04.jpg
