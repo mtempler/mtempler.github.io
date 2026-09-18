@@ -38,7 +38,7 @@ $$
 
 
 <figure>
-  <img src="/images/blog/InteractionSoC.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+  <img src="/images/blog/p_AB_interaction.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
     Analytical Interactions in the Science of Giving and Receiving
   </figcaption>
