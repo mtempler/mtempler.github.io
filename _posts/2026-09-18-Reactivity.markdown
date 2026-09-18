@@ -31,11 +31,11 @@ Define the interaction function, $$\Lambda$$, of the two time-series by
 {% raw %}
 $$
 \begin{align}
-\Lambda \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)} \equiv \frac{p_A p_B}{p_{AB}},
+\Lambda \equiv \frac{p(n_A) p(n_B)}{p(n_A n_B)} \equiv \frac{p_A p_B}{p_{AB}},
 \end{align}
 $$
 {% endraw %}
-and we introduce an obvious simplifying notation.  The science-of-counting produces the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, which takes a quadratic form in terms of $\Lambda$ and produces solutions
+with an obvious notational simplification.  The science-of-counting produces the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, which is quadratic in $\Lambda$ and produces solutions
 {% raw %}
 $$
 \begin{align}
