@@ -19,7 +19,7 @@ With strain zero-ed out, humanity strayed from the deductive path.  Human invent
 
 The functions that define the relationship between energy, momentum and velocity, E=pv, are deduced in the science-of-counting. The same analysis is deductively extended to interactions as well.  A high-level picture of the interaction science is presented in the previous blog, and is reused here to better understand the production and distribution of electrical power. 
 
-Given a time-series for electrical energy supply (in MWh), $$n_A$$, there are natural coordinates (an eigenbasis) in scientific learning that define the Expected Supply and its associated Expected Strain. Similarly, given a time-series for energy demand (in MWh), $$n_B$$, the Expected Demand and its associated Expect Strain are defined.  The Lagrangian below enforces supply and demand measurements as constraints, $$\cal{L}_A$$ and $$\cal{L}_B$$, and moreover adds the constraints for interaction measurements, with the Lagrange multipliers $$\lambda_{AB}$$ and the $$\sigma_{AB}$$ terms below.
+Given a time-series for the electrical energy supply (in units of MWh), $$n_A$$, there are natural coordinates (an eigenbasis) in scientific learning that define the Expected Supply and its associated Expected Strain. Similarly, given a time-series for energy demand (in MWh), $$n_B$$, the Expected Demand and its associated Expect Strain are also defined.  The Lagrangian below enforces supply and demand measurements in units as constraints, $$\cal{L}_A$$ and $$\cal{L}_B$$, and moreover adds the constraints for interaction measurements, with the Lagrange multipliers $$\lambda_{AB}$$ and the $$\sigma_{AB}$$ terms below.
 {% raw %}
 $$
 \begin{align}
@@ -27,7 +27,7 @@ $$
 \end{align}
 $$
 {% endraw %}  
-Define the interaction function, $$\Lambda$$, of two time-series by
+Define the interaction function, $$\Lambda$$, of the two time-series by
 {% raw %}
 $$
 \begin{align}
@@ -35,13 +35,13 @@ $$
 \end{align}
 $$
 {% endraw %}
-so that
+so that the Tschirnhausen cubic curve, $$y^2 = x(1-x/y)$$, takes the form
 $$
 \begin{align}
 p(n_A n_B) = \Lambda (1-\Lambda).
 \end{align}
 $$
-In these coordinates the Tschirnhausen cubic curve takes the following form
+The momentum, $$p(n_A n_B)$$, is normalized so that $$1\ge p(n_A n_B)\ge 0$$.  What happens between $$1\ge p(n_A n_B)\ge 1/4$$?
 
 <figure>
   <img src="/images/blog/p_AB_interaction.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
