@@ -27,15 +27,21 @@ $$
 \end{align}
 $$
 {% endraw %}  
-Introduce the interaction function, $$\Lambda$$, of two time-series by
+Define the interaction function, $$\Lambda$$, of two time-series by
 {% raw %}
 $$
 \begin{align}
 \Lambda \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)},
 \end{align}
 $$
-{% endraw %}  
-
+{% endraw %}
+so that
+$$
+\begin{align}
+p(n_A n_B) = \Lambda (1-\Lambda).
+\end{align}
+$$
+In these coordinates the Tschirnhausen cubic curve takes the following form
 
 <figure>
   <img src="/images/blog/p_AB_interaction.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
@@ -45,16 +51,6 @@ $$
 </figure>
 
 
-
-Using the following identities,
-{% raw %}
-$$
-\begin{align}
-\frac{y}{x} = \frac{p(n_S n_D)}{p(n_S)p(n_D)} = \frac{p(n_S\vert n_D)}{p(n_S)} = \frac{p(n_D\vert n_S)}{p(n_D)},
-\end{align}
-$$
-{% endraw %}
-the curve is the same but the axis labels $$x$$ and $$y$$ define a different load problems: forward and backward scattering, supply needed for demand, demand needed for supply, respectively. 
 
 
 **To Give and To Receive** 
