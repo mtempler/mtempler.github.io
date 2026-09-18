@@ -155,7 +155,7 @@ portfolio:
   - title: Scientific Machine Learning for Power Grids
     categories: [Articles]
     image: img-01.jpg
-    url: "#" # TODO: replace with the article's actual URL
+    url: "https://www.primeopenaccess.com/scholarly-articles/scientific-machine-learning-for-power-grids.pdf"
 
 
 #####################################
