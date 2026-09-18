@@ -31,7 +31,7 @@ Define the interaction function, $$\Lambda$$, of the two time-series by
 {% raw %}
 $$
 \begin{align}
-\Lambda \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)} \equiv \frac{p_A p_B)}{p_AB},
+\Lambda \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)} \equiv \frac{p_A p_B}{p_{AB}},
 \end{align}
 $$
 {% endraw %}
