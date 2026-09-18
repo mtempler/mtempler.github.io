@@ -35,10 +35,10 @@ $$
 \end{align}
 $$
 {% endraw %}
-where the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, takes the form
+where the science-of-counting interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, takes the simple form
 $$
 \begin{align}
-p_{AB} = \Lambda (1-\Lambda).
+p_{AB} = \Lambda (1-\Lambda) \Rightarrow \Lambda = \frac{1}{2} \pm \sqrt{\frac{1}{4} - p_{AB}}.
 \end{align}
 $$
 The momentum, $$p_{AB}$$, is normalized so that $$1\ge p_{AB}\ge 0$$.  What happens between $$1\ge p_{AB}\ge 1/4$$?
