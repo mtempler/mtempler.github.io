@@ -148,13 +148,13 @@ portfolio:
   # Portfolio Item
   - title: Decision Making in Scientific Machine Learning
     categories: [Articles]
-    image: img-01.jpg
-    url: "#" # TODO: replace with the article's actual URL
+    image: img-02.jpg
+    url: "https://s3.us-east-1.amazonaws.com/www.decision-machine.com/DecisionMaking_in_SML_FINAL.pdf"
 
   # Portfolio Item
   - title: Scientific Machine Learning for Power Grids
     categories: [Articles]
-    image: img-01.jpg
+    image: img-09.jpg
     url: "https://www.primeopenaccess.com/scholarly-articles/scientific-machine-learning-for-power-grids.pdf"
 
 
