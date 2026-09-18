@@ -33,16 +33,7 @@ If the supply and demand time-series are independent, that is, there is no inter
 {% raw %}
 $$
 \begin{align}
-\Lambda \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)},
-\end{align}
-$$
-{% endraw %}  
-so that when $$\Lambda = 1$$, the equation reduces correctly to the definition of probability independence. In general, scientific learning derives the interaction function algebraically, as a plane cubic curve that determines how the various momenta (normalized to also be probabilities) must fit together and change in concert (as a Tschirnhausen cubic):
-{% raw %}
-$$
-\begin{align}
-p^2(n_A n_B)= \Bigg[1-\frac{p(n_A)p(n_B)}{p(n_A n_B)} \Bigg]\;p(n_A)p(n_B) &\quad \Rightarrow\quad p(n_A n_B) = \Lambda (1-\Lambda) \\
-&\quad \Rightarrow\quad \Lambda = \frac{1}{2} \pm \sqrt{\frac{1}{4} - p(n_A n_B)}.
+\Lambda \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)},\quad p(n_A n_B) = \Lambda (1-\Lambda), \quad \Lambda = \frac{1}{2} \pm \sqrt{\frac{1}{4} - p(n_A n_B)}.
 \end{align}
 $$
 {% endraw %}  

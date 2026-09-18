@@ -11,39 +11,31 @@ In a previous blog we examined the science-of-counting in units of measure, and 
 
 The first thing to note when you look at measurements, is that scientific measurements on time-series rarely behave statistically, and that energy routinely enters and exits the system (is not mechanical).  A scientist would welcome the development, because it means years of interesting work and a pivot toward reality and better understanding.  The initial reaction from  industry would likely be horror, understandably, because the install base is suddenly anachronistic.  However, it is only a course correction where scientific learning rigorously and uniquely generalizes statistics and statistical mechanics.  Many years of interesting work for many people that should be planned and well-considered, because it will involved the talents and expertise of many to realize.
 
-We focus on the electrical power grid precisely because it is a multi-faceted operational environment, requires coordination to operate, and is known to be cautious.  But most importantly, the risk is reduced significantly for power grids, because the conventional grid is already built on a simplified science-of-counting (average strain vanishes at statistcs).  The engineering assumption is valid when the generated power is known and stable, however, renewables make the assumption invalid.   
+We focus on the electrical power grid precisely because it is a multi-faceted operational environment, requires coordination to operate, and is known to be cautious.  But most importantly, the risk is reduced significantly for power grids, because the conventional grid is already built on a simplified science-of-counting (average strain vanishes at statistics).  The engineering assumption is valid when the generated power is known and stable, however, renewables make the assumption invalid.   
 
 With strain zero-ed out, humanity strayed from the deductive path.  Human invention was needed to make the system work.  It was soon discovered that AC voltage regulation required the re-introduction of energy storage, in the form of imaginary values for reactivity in capacitors and inductors.  In this blog we look at how reactivity emerges naturally from the full science-of-counting, instead of the half-theory.
 
 **Reactivity** 
 
-The functions that define the relationship between energy, momentum and velocity, E=pv, are deduced in the science-of-counting. To manage supply and demand the same analysis is deductively extended to interactions as well.  A high-level picture of the interaction science is presented in the previous blog.
+The functions that define the relationship between energy, momentum and velocity, E=pv, are deduced in the science-of-counting. The same analysis is deductively extended to interactions as well.  A high-level picture of the interaction science is presented in the previous blog, and is reused here to better understand the production and distribution of electrical power. 
 
-Given a time-series for power demand (in MWh), $$n_D$$, there are natural coordinates (an eigenbasis) in scientific learning that define the Expected Demand and its associated Expected Strain. Similarly, given a time-series for power supply (in MWh), $$n_S$$, the Expected Supply and its associated Expect Strain are defined.  The Lagrangian below enforces supply and demand measurements as constraints, $$\cal{L}_S$$ and $$\cal{L}_D$$, and furthermore adds the constraints for interaction measurements, the $$\lambda_{SD}$$ and the $$\sigma_{SD}$$ terms below.
+Given a time-series for electrical energy supply (in MWh), $$n_A$$, there are natural coordinates (an eigenbasis) in scientific learning that define the Expected Supply and its associated Expected Strain. Similarly, given a time-series for energy demand (in MWh), $$n_B$$, the Expected Demand and its associated Expect Strain are defined.  The Lagrangian below enforces supply and demand measurements as constraints, $$\cal{L}_A$$ and $$\cal{L}_B$$, and moreover adds the constraints for interaction measurements, with the Lagrange multipliers $$\lambda_{AB}$$ and the $$\sigma_{AB}$$ terms below.
 {% raw %}
 $$
 \begin{align}
-\cal{L} &= \cal{L}_S + \cal{L}_D - \lambda_{SD}\,<n_S\,n_D> - \,\sigma_{SD}\,<v_S\,v_D>.
+\cal{L} &= \cal{L}_A + \cal{L}_B - \lambda_{AB}\,<n_A\,n_B> - \,\sigma_{AB}\,<v_A\,v_B>.
 \end{align}
 $$
 {% endraw %}  
-If the supply and demand time-series are independent, that is, there is no interaction between the two, then the time-series would report that the couplings $$\lambda_{SD}$$ and $$\sigma_{SD}$$ are both equal to zero, and that $$p(n_S n_D) = p(n_S)p(n_D)$$. In truth, of course, supply and demand are highly coupled and interact non-trivially, so that 
+Introduce the interaction function, $$\Lambda$$, of two time-series by
 {% raw %}
 $$
 \begin{align}
-p(n_S n_D)=\Lambda(\lambda_{SD})\;p(n_S)p(n_D),
+\Lambda \equiv \frac{p(n_A)p(n_B)}{p(n_A n_B)},
 \end{align}
 $$
 {% endraw %}  
-The interaction of the two time-series, $$\Lambda(\lambda_{SD})$$, is a function of the interaction coupling, $$\lambda_{SD}$$.  When $$\Lambda(\lambda_{SD} = 0) = 1$$, the function above reduces correctly to the definition of independence in probabilities.  Scientific learning defines the interaction algebraically, as a plane cubic curve (a Tschirnhausen cubic),
-{% raw %}
-$$
-\begin{align}
-p^2(n_S n_D)= \Bigg[1-\frac{p(n_S)p(n_D)}{p(n_S n_D)} \Bigg]\;p(n_S)p(n_D) = \Bigg[\frac{\Lambda-1}{\Lambda}\Bigg]\;p(n_S)p(n_D),
-\end{align}
-$$
-{% endraw %}  
-that fixes how the various momenta (normalized to also be probabilities) must fit together and change in concert.  See interaction diagram and coupling curve below.
+
 
 <figure>
   <img src="/images/blog/InteractionSoC.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
@@ -52,7 +44,7 @@ that fixes how the various momenta (normalized to also be probabilities) must fi
   </figcaption>
 </figure>
 
-To demonstrate with forward scattering, we are given the historical time-series $$A=n_S$$ and $$B=n_D$$ and calculate the scientific learning measurements $$p(n_S)$$ and $$p(n_D)$$.  Multiply the measurements, $$p(n_S)p(n_D)$$, and identify the point on the x-axis of the coupling curve, map to the corresponding point on the y-axis, $$p(n_S n_D)$$.  The output with interaction is given by the conditional probabilities $$p(n_S\vert n_D)=p(n_S n_D)/p(n_D)$$ and $$p(n_D\vert n_S)=p(n_S n_D)/p(n_S)$$.
+
 
 Using the following identities,
 {% raw %}
