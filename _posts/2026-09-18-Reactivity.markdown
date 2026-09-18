@@ -35,11 +35,11 @@ $$
 \end{align}
 $$
 {% endraw %}
-and a simplified notation is introduced.  The science-of-counting produces the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, which takes a simple form with solutions
+and we introduce an obvious simplifying notation.  The science-of-counting produces the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, which takes a simple form in terms of $\Lambda$ and produces solutions
 {% raw %}
 $$
 \begin{align}
-p_{AB} = \Lambda (1-\Lambda) \Rightarrow \Lambda = \frac{1}{2} \pm \sqrt{\frac{1}{4} - p_{AB}}.
+p_{AB} = \Lambda (1-\Lambda) \quad \Rightarrow \quad\Lambda = \frac{1}{2} \pm \sqrt{\frac{1}{4} - p_{AB}}.
 \end{align}
 $$
 {% endraw %}
