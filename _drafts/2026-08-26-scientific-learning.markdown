@@ -1,25 +1,23 @@
 ---
 layout: post
-title: "To Give & To Receive: Scientific Learning"
+title: "To Give & To Receive: Cooperation"
 tagline: Single Page
 date: 2026-08-12 13:23
 categories: [Machine Learning, Giving-Receiving ]
 tags: [Supply and Demand, Power Grid]
 image: img-04.jpg
 ---
-Over the past decade, the 19th century science-of-counting has been resurrected to provide a combinatorial derivation of conventional Machine Learning that uniquely generalizes statistics to probability theory, allows energy to enter or exit the system, and processes any time-series to return a complete set of scientific (thermodynamic) measurements as deductive Reality.  And now that we have a plausible way to explain and generalize Machine Learning for time-series, we observe that "Machine" and "Artificial Intelligence" are too prominent, because in the science-of-counting computers only do what they have done from the beginning: evaluate built-in functions.  The derivation of the functions is human intelligence, not artificial intelligence. In the science-of-counting "scientific machine learning" is simplified to scientific learning.  
+In a previous blog we examined the science-of-counting in units of measure, and applied it to the design of the power grid.  The key realization is self-confidence in counted measures.  Our self-confidence in counting can be expressed mathematically as constraints on science (Lagrange multipliers).  Everything thereafter is deductive, exact, and free from bias, and is used to produce rigorous and familiar scientific measurements of time-series (time-stamps and counted values, to give energy, momentum, exact probability distributions, and so on).
 
-Conventional machine learning is effective in static, closed world applications, but cannot accommodate changing environments, where energy can enter or exit, or, where strain stores energy for later release.  Energy allowed to enter or exit also allows emotional energy to enter and exit, as a principle and obvious source of human energy that can both affect dynamics and anticipate a need.  Scientific learning is the science-of-counting evaluated on time-series that permits energy flow and energy storage, and reduces to statistics when there is no energy entering or exiting the system.
+The first thing to note when you look at measurements, is that scientific measurements on time-series rarely behave statistically, and that energy routinely enters and exits the system (is not mechanical).  A scientist would welcome the development, because it means years of interesting work and a pivot toward reality and better understanding.  The initial reaction from  industry would likely be horror, understandably, because the install base is suddenly anachronistic.  However, it is only a course correction where scientific learning rigorously and uniquely generalizes statistics and statistical mechanics.  Many years of interesting work for many people that should be planned and well-considered, because it will involved the talents and expertise of many to realize.
 
-What a gift is the human mind (intuition, intellect and emotions) that is capable to understand deductive Reality.
+We focus on the electrical power grid precisely because it is a multi-faceted operational environment, requires coordination to operate, and is known to be cautious.  But most importantly, the risk is reduced significantly for power grids, because the conventional grid is already built on a simplified science-of-counting (average strain vanishes at statistcs).  The engineering assumption is valid when the generated power is known and stable, however, renewables make the assumption invalid.   
 
-By examining problems that share the same overall mathematical structure as Scientific Learning, the power grid is seen to have a historical connection and is structurally the same shape.  The key difference is that our current grid makes an engineering assumption/simplification that the average strains are zero, which is only possible at statistical equilibrium (when it is just as likely to go up as to go down).  The traditional power grid could ignore strain, because power generation was under controlled. But given renewable energy sources, the next generation of power grid must recognize and manage power grid strains along with the supply and demand.  
+With strain zero-ed out, humanity strayed from the deductive path.  Human invention was needed to make the system work.  It was soon discovered that AC voltage regulation required the re-introduction of energy storage, in the form of imaginary values for reactivity in capacitors and inductors.  In this blog we look at how reactivity emerges naturally from the full science-of-counting, instead of the half-theory.
 
-When applied to a "need", say, electrical power, **Scientific Learning** becomes the **Science of Giving and Receiving**.  With both the supply and demand time-series, the power grid realizes the Science of Giving and Receiving.  The science of giving and receiving is used to re-architect the power grid for non-equilibrium operation to support variable energy sources (renewables).  The power grid of the future is a re-engineering problem that is not solved by government policy alone.
+**Reactivity** 
 
-**Supply and Demand Interactions** 
-
-The functions that define the relationship between energy, momentum and velocity, E=pv, are deduced in the science-of-counting. To manage supply and demand the same analysis is deductively extended to interactions as well.  A high-level picture of the interaction science is presented here.
+The functions that define the relationship between energy, momentum and velocity, E=pv, are deduced in the science-of-counting. To manage supply and demand the same analysis is deductively extended to interactions as well.  A high-level picture of the interaction science is presented in the previous blog.
 
 Given a time-series for power demand (in MWh), $$n_D$$, there are natural coordinates (an eigenbasis) in scientific learning that define the Expected Demand and its associated Expected Strain. Similarly, given a time-series for power supply (in MWh), $$n_S$$, the Expected Supply and its associated Expect Strain are defined.  The Lagrangian below enforces supply and demand measurements as constraints, $$\cal{L}_S$$ and $$\cal{L}_D$$, and furthermore adds the constraints for interaction measurements, the $$\lambda_{SD}$$ and the $$\sigma_{SD}$$ terms below.
 {% raw %}
@@ -64,7 +62,7 @@ $$
 \end{align}
 $$
 {% endraw %}
-the curve is the same but the axis labels $$x$$ and $$y$$ define a different problem: forward and backward scattering, supply needed for demand, demand needed for supply, respectively. An analysis with live time-series data is being prepared for publication.
+the curve is the same but the axis labels $$x$$ and $$y$$ define a different load problems: forward and backward scattering, supply needed for demand, demand needed for supply, respectively. 
 
 
 **To Give and To Receive** 
