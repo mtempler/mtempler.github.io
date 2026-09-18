@@ -35,12 +35,14 @@ $$
 \end{align}
 $$
 {% endraw %}
-and a simplified notation is introduced.  The science-of-counting produces the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, takes the simple form with solutions
+and a simplified notation is introduced.  The science-of-counting produces the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, which takes a simple form with solutions
+{% raw %}
 $$
 \begin{align}
 p_{AB} = \Lambda (1-\Lambda) \Rightarrow \Lambda = \frac{1}{2} \pm \sqrt{\frac{1}{4} - p_{AB}}.
 \end{align}
 $$
+{% endraw %}
 The joint momentum, $$p_{AB}$$, has already been normalized, so that $$1\ge p_{AB}\ge 0$$.  What happens between $$1\ge p_{AB}\ge 1/4$$?
 
 <figure>
