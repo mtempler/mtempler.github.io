@@ -143,7 +143,7 @@ portfolio:
   - title: Scientific Machine Learning
     categories: [Articles]
     image: img-01.jpg
-    url: "#" # TODO: replace with the article's actual URL
+    url: "https://www.primeopenaccess.com/scholarly-articles/scientific-machine-learning.pdf"
 
   # Portfolio Item
   - title: Decision Making in Scientific Machine Learning
