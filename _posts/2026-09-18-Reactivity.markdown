@@ -51,7 +51,7 @@ $$
 \end{align}
 $$
 {% endraw %}
-In summary, 
+In summary, the interaction momentum, interaction velocity and interaction energy are given by
 {% raw %}
 $$
 \begin{align}
