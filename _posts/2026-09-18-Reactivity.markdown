@@ -55,7 +55,7 @@ The solution space for scientific learning is presented in the plot below.
 <figure>
   <img src="/images/blog/p_AB_interaction.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
-    The joint momentum and probability, $$p_{AB}$$, is an inverted parabola with zeros at $$\Lambda = 0,1$$, and peak at $$\Lambda = 1/2$$ and $$p_{AB}=1/4$$. 
+    The joint momentum and probability, $p_{AB}$, is an inverted parabola with zeros at $\Lambda = 0,1$, and peak at $\Lambda = 1/2$ and $p_{AB}=1/4$. 
   </figcaption>
 </figure>
 
