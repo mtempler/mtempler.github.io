@@ -35,7 +35,7 @@ $$
 \end{align}
 $$
 {% endraw %}
-relating direct and joint probabilities, and an obvious notational simplification.  The science-of-counting produces the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, which is quadratic in $$\Lambda$$ and produces solutions
+relating direct and joint probabilities, and an obvious notational simplification.  The science-of-counting derives the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, which is quadratic in $$\Lambda$$ and produces solutions
 {% raw %}
 $$
 \begin{align}
@@ -60,7 +60,7 @@ The solution space for scientific learning is presented in the plot below.
 </figure>
 
 ** **
-Returning to the dispersion relation, $$E=pv$$, the interaction velocity and energy are given by
+Returning to the dispersion relation, $$E=pv$$, the interaction velocity and energy are now given by
 {% raw %}
 $$
 \begin{align}
