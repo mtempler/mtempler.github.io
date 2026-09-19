@@ -51,9 +51,7 @@ $$
 \end{align}
 $$
 {% endraw %}
-
-
-In summary, the solution space for scientific learning is presented in the figure below.
+In summary, 
 {% raw %}
 $$
 \begin{align}
@@ -61,6 +59,7 @@ p_{AB} = \Lambda (1-\Lambda), \quad v_{AB} = \ln\Lambda, \quad E_{AB} = \Lambda\
 \end{align}
 $$
 {% endraw %}
+The solution space for scientific learning is presented in the plot below.
 <figure>
   <img src="/images/blog/p_AB_interaction.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
