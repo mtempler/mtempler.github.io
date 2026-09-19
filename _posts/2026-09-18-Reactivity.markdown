@@ -13,7 +13,7 @@ The first thing to note when you look at measurements, is that scientific measur
 
 We focus on the electrical power grid precisely because it is a multi-faceted operational environment, requires coordination to operate, and is known to be cautious.  But most importantly, the risk is reduced significantly for power grids, because the conventional grid is already built on a simplified science-of-counting (average strain vanishes at statistics).  The engineering assumption is valid when the generated power is known and stable, however, renewables make the assumption invalid.   
 
-With strain zero-ed out, humanity strayed from the deductive path.  Human invention was needed to make the system work.  It was soon discovered that AC voltage regulation required the re-introduction of energy storage, in the form of imaginary values for reactivity in capacitors and inductors.  In this blog we look at how reactivity emerges naturally from the full science-of-counting, instead of the half-theory.
+With strain zero-ed out, humanity strayed from the deductive path, and human invention was needed to make the system work.  It was soon discovered that AC voltage regulation required the re-introduction of energy storage, in the form of imaginary values for power (reactivity) due to the introduction of capacitors and inductors.  In this blog we look at how reactivity emerges naturally from the full science-of-counting, instead of the half-theory.
 
 **Reactivity** 
 
@@ -55,7 +55,7 @@ The solution space for scientific learning is presented in the plot below.
 <figure>
   <img src="/images/blog/p_AB_interaction.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
-    Analytical Interactions in the Science of Giving and Receiving
+    The joint momentum and probability, $$p_{AB}$$, is an inverted parabola with zeros at $$\Lambda = 0,1$$, and peak at $$\Lambda = 1/2$$ and $$p_{AB}=1/4$$. 
   </figcaption>
 </figure>
 
