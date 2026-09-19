@@ -64,7 +64,7 @@ From the dispersion relation, the interaction velocity and energy are given by
 $$
 \begin{align}
 v_{AB} = \ln\Lambda, \quad E_{AB} &= \Lambda\ln\Lambda (1-\Lambda)\\
-&= p_{AB} \big( \frac{1}{2} \ln p_{AB} + i \arctan(2\sqrt{p_{AB} - \frac{1}{4}).
+&= p_{AB} \big[ \frac{1}{2} \ln p_{AB} + i \arctan\big(2\sqrt{p_{AB} - \frac{1}{4}}\big)\big].
 \end{align}
 $$
 {% endraw %}
