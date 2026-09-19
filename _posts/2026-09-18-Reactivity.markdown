@@ -27,7 +27,7 @@ $$
 \end{align}
 $$
 {% endraw %}  
-Define the interaction function, $$\Lambda$$, of the two time-series by
+Define the interaction function, $$\Lambda$$, of the two time-series to be
 {% raw %}
 $$
 \begin{align}
@@ -39,7 +39,7 @@ with an obvious notational simplification.  The science-of-counting produces the
 {% raw %}
 $$
 \begin{align}
-p_{AB} = \Lambda (1-\Lambda) \quad \Rightarrow \quad\Lambda = \frac{1}{2} \pm \sqrt{\frac{1}{4} - p_{AB}}.
+p_{AB} = \Lambda (1-\Lambda) \quad \Leftrightarrow \quad\Lambda = \frac{1}{2} \pm \sqrt{\frac{1}{4} - p_{AB}}.
 \end{align}
 $$
 {% endraw %}
