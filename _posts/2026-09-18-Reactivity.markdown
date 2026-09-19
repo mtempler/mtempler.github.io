@@ -35,7 +35,7 @@ $$
 \end{align}
 $$
 {% endraw %}
-with an obvious notational simplification.  The science-of-counting produces the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, which is quadratic in $$\Lambda$$ and produces solutions
+relating direct and joint probabilities, with an obvious notational simplification.  The science-of-counting produces the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, which is quadratic in $$\Lambda$$ and produces solutions
 {% raw %}
 $$
 \begin{align}
@@ -43,8 +43,15 @@ p_{AB} = \Lambda (1-\Lambda) \quad \Leftrightarrow \quad\Lambda = \frac{1}{2} \p
 \end{align}
 $$
 {% endraw %}
-The joint momentum, $$p_{AB}$$, has already been normalized, so that $$1\ge p_{AB}\ge 0$$.  What happens between $$1\ge p_{AB}\ge 1/4$$?
-
+The joint momentum, $$p_{AB}$$, has already been normalized, so that $$1\ge p_{AB}\ge 0$$.  Observe that between $$1/4 < p_{AB}\le 1$$,
+{% raw %}
+$$
+\begin{align}
+\Lambda = \frac{1}{2} \pm i\sqrt{p_{AB} - \frac{1}{4}}.
+\end{align}
+$$
+{% endraw %}
+Solution space
 <figure>
   <img src="/images/blog/p_AB_interaction.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
