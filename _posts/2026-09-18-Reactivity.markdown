@@ -35,7 +35,7 @@ $$
 \end{align}
 $$
 {% endraw %}
-with an obvious notational simplification.  The science-of-counting produces the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, which is quadratic in $\Lambda$ and produces solutions
+with an obvious notational simplification.  The science-of-counting produces the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, which is quadratic in $$\Lambda$$ and produces solutions
 {% raw %}
 $$
 \begin{align}
