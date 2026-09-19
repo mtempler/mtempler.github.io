@@ -35,7 +35,7 @@ $$
 \end{align}
 $$
 {% endraw %}
-relating direct and joint probabilities, and an obvious notational simplification.  The science-of-counting derives the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, which is quadratic in $$\Lambda$$ and produces solutions
+relating direct and joint probabilities, and an obvious notational simplification.  The science-of-counting derives the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, which relates direct and joint probabilities of time-series and that is quadratic in $$\Lambda$$ to produce solutions
 {% raw %}
 $$
 \begin{align}
@@ -43,7 +43,7 @@ p_{AB} = \Lambda (1-\Lambda) \quad \Leftrightarrow \quad\Lambda = \frac{1}{2} \p
 \end{align}
 $$
 {% endraw %}
-The joint momentum, $$p_{AB}$$, has already been normalized, so that $$1\ge p_{AB}\ge 0$$.  Observe that between $$1/4 < p_{AB}\le 1$$,
+The joint momentum, $$p_{AB}$$, has already been normalized, so that $$1\ge p_{AB}\ge 0$$.  Observe that between $$1/4 < p_{AB}\le 1$$, the interaction function $$\Lambda$$ has complex values
 {% raw %}
 $$
 \begin{align}
