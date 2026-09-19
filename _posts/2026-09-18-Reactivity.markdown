@@ -55,7 +55,7 @@ The solution space for scientific learning is presented in the plot below.
 <figure>
   <img src="/images/blog/p_AB_interaction.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
-    The joint momentum and probability (y-axis) is an inverted parabola with zeros at x = 0 and 1, and peak at x = 1/2 and y = 1/4. When interaction coupling is repulsive, energy entering the system does compression work, and can store and release energy.  Correspondingly, when interaction coupling is attractive, energy entering the system does extension work, and can also store and release energy.
+    The interaction momentum and probability (y-axis) is an inverted parabola with zeros at x = 0 and 1, and peak at x = 1/2 and y = 1/4. When interaction coupling is repulsive, energy entering the system does compression work, and can store and release energy.  Correspondingly, when interaction coupling is attractive, energy entering the system does extension work, and can also store and release energy.  When the interaction momentum is greater than 1/4 the interaction velocity acquires a complex component, so that oscillations in strain can be measured.
   </figcaption>
 </figure>
 
