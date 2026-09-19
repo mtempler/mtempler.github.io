@@ -60,7 +60,7 @@ The solution space for scientific learning is presented in the plot below.
 </figure>
 
 ** **
-Returning to the dispersion relation, $$E=pv$$, the interaction velocity and energy are now given by
+Returning to the dispersion relation, $$E=pv$$, the interaction velocity and energy are given by
 {% raw %}
 $$
 \begin{align}
