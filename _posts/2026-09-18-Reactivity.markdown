@@ -69,7 +69,7 @@ v_{AB} = \ln\Lambda, \quad E_{AB} &= \Lambda\ln\Lambda (1-\Lambda)\\
 \end{align}
 $$
 {% endraw %}
-and provide exact expressions for the Active, Reactive and Apparent Energies as a function of the interaction momentum/probability, $$p_{AB}$$.
+to provide exact expressions for the Active, Reactive and Apparent energies as a function of the measurable interaction momentum and probability, $$p_{AB}$$, from time-series.
 
 
 **To Give and To Receive** 
