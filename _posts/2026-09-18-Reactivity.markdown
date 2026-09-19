@@ -35,7 +35,7 @@ $$
 \end{align}
 $$
 {% endraw %}
-relating direct and joint probabilities, with an obvious notational simplification.  The science-of-counting produces the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, which is quadratic in $$\Lambda$$ and produces solutions
+relating direct and joint probabilities, and an obvious notational simplification.  The science-of-counting produces the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, which is quadratic in $$\Lambda$$ and produces solutions
 {% raw %}
 $$
 \begin{align}
@@ -51,14 +51,6 @@ $$
 \end{align}
 $$
 {% endraw %}
-In summary, the interaction momentum, interaction velocity and interaction energy are given by
-{% raw %}
-$$
-\begin{align}
-p_{AB} = \Lambda (1-\Lambda), \quad v_{AB} = \ln\Lambda, \quad E_{AB} = \Lambda\ln\Lambda (1-\Lambda).
-\end{align}
-$$
-{% endraw %}
 The solution space for scientific learning is presented in the plot below.
 <figure>
   <img src="/images/blog/p_AB_interaction.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
@@ -67,6 +59,15 @@ The solution space for scientific learning is presented in the plot below.
   </figcaption>
 </figure>
 
+From the dispersion relation, the interaction momentum, velocity and energy are given by
+{% raw %}
+$$
+\begin{align}
+p_{AB} = \Lambda (1-\Lambda), \quad v_{AB} = \ln\Lambda, \quad E_{AB} &= \Lambda\ln\Lambda (1-\Lambda)\\
+= p_{AB} \big( 1/2 \ln p_{AB} + i \arctan(2\sqrt(p_{AB} - 1/4)).
+\end{align}
+$$
+{% endraw %}
 
 
 
