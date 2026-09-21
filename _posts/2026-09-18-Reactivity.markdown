@@ -9,7 +9,7 @@ image: img-04.jpg
 ---
 In a previous blog we examined the science-of-counting in units of measure, and applied it to the design of the power grid.  The key realization is self-confidence in counted measures.  Our self-confidence in counting can be expressed mathematically as constraints on science (Lagrange multipliers).  Everything thereafter is deductive, exact, and free from bias, and is used to produce rigorous and familiar scientific measurements of time-series (time-stamps and counted values, to give energy, momentum, exact probability distributions, and so on).
 
-The first thing to note is that scientific measurements on time-series rarely behave statistically, and that energy routinely enters and exits the system, that is, the time-series is not mechanical.  The initial reaction from  industry would likely be horror, understandably, because the install base is suddenly anachronistic.  However, it is only a course correction where scientific learning rigorously and uniquely generalizes statistics and statistical mechanics.  Many years of interesting work for many people, well-planned because it will involved the talents and expertise of many to realize.
+The first thing to note is that scientific measurements on time-series rarely behave statistically, and that energy routinely enters and exits the system, that is, the time-series is not mechanical.  The initial reaction from  industry would understandably be concern, because the install base is suddenly anachronistic.  However, it is only a course correction where scientific learning rigorously and uniquely generalizes statistics and statistical mechanics.
 
 We focus on the electrical power grid precisely because it is a multi-faceted operational environment, requires coordination to operate, and is known to be cautious.  But most importantly, the risk is reduced significantly for power grids, because the conventional grid is already built on a simplified science-of-counting (average strain vanishes at statistics).  The engineering assumption is valid when the generated power is known and stable, however, renewables make the assumption invalid.   
 
@@ -72,7 +72,7 @@ $$
 to provide exact expressions for the Active, Reactive and Apparent energies as a function of the measurable interaction momentum and probability, $$p_{AB}$$, from time-series.
 
 **Cooperation**
-Energy regulation is a critical aspect of electrical systems is ensuring a stable and consistent supply of electrical power. By maintaining energy within a specified range, sensitive electronic equipment damage from the voltage fluctuations is prevented.
+Energy and current regulation are critical to electrical systems to ensure a stable and consistent supply of electrical power. By maintaining energy and current within specified ranges, we prevent energy and current fluctuations that can damage sensitive electronic equipment.
 <figure>
   <img src="/images/blog/SupplyDemandinSoC.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
