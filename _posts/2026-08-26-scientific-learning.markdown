@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "To Give & To Receive at Scale: Scientific Learning"
+title: "Give and Receive at Scale: Scientific Learning"
 tagline: Single Page
 date: 2026-08-12 13:23
 categories: [Machine Learning, Giving-Receiving ]
