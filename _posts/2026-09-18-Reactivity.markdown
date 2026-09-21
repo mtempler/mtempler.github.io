@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "To Give & To Receive: Cooperation"
+title: "To Give & To Receive at Scale: Cooperation"
 tagline: Single Page
 date: 2026-09-18 09:23
 categories: [Machine Learning, Giving-Receiving ]
