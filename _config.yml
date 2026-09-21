@@ -94,13 +94,13 @@ about-widget:
 #############   About   #############
 #####################################
 about-title: Welcome to Scientific Machine Learning
-about-description: Given any time-series, Scientific Machine Learning measures it directly and exactly, with measurements available immediately, without model building, model training, or model bias, that inevitably lag behind when decisions must be made---in the present.  The first step is the SML-Training Viewer (free) that consists of core training on Scientific Machine Learning (SML) measurements for the well-informed.  On completing the training the full SML-App Viewer and Decision Machine can be downloaded.  Begin to explore your own time-series, and share your questions, insights and discoveries with the Scientific Machine Learning community at Fides et Ratio.
+about-description: Given any time-series, Scientific Machine Learning measures it directly and exactly, with measurements available immediately, without model building, model training, or model bias, that would inevitably lag behind when decisions must be made---in the present.  The first step is the SML-Training Viewer (free) that consists of core training on Scientific Machine Learning (SML) measurements for the well-informed.  On completing the training the full SML-App Viewer and Decision Machine can be downloaded.  Begin to explore your own time-series, and share your questions, insights and discoveries with the Scientific Machine Learning community at Fides et Ratio.
 
 #####################################
 #############  Features  ############
 #####################################
 features-title: Features
-features-description: The science-of-counting is science when counting in units.  This is achieved by counting up to the last full measure, which ensures that multiple measurers, given the same unit of measure, will get the exact same measurement. Any leftover by definition is less than a full unit of measure, and is ignored.
+features-description: The science-of-counting is science when counting in units.  This is achieved by counting up to the last full measure, which ensures that multiple measurers, given the same unit of measure, will get the exact same answer. Any leftover by definition is less than a full unit of measure, and is ignored.
 
 #
 # Features
