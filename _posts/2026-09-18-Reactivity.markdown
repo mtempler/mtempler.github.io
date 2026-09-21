@@ -7,7 +7,7 @@ categories: [Machine Learning, Giving-Receiving ]
 tags: [Supply and Demand, Power Grid]
 image: img-04.jpg
 ---
-In a previous blog we examined the science-of-counting in units of measure, and applied it to the design of the power grid.  The key realization is self-confidence in counted measures.  Our self-confidence in counting can be expressed mathematically as constraints on science (Lagrange multipliers).  Everything thereafter is deductive, exact, and free from bias, and is used to produce rigorous and familiar scientific measurements of time-series (time-stamps and counted values, to give energy, momentum, exact probability distributions, and so on).
+In a previous blog we examined the science-of-counting in units of measure, and applied it to the design of the power grid.  Our confidence in being able to count can be expressed mathematically as constraints on science (with Lagrange multipliers).  Everything thereafter is deductive, exact, and free from bias, and is used to produce rigorous and familiar scientific measurements of time-series (time-stamps and counted values, to give energy, momentum, exact probability distributions, and so on).
 
 The first thing to note is that scientific measurements on time-series rarely behave statistically, and that energy routinely enters and exits the system, that is, the time-series is not mechanical.  The initial reaction from  industry would understandably be concern, because the install base is suddenly anachronistic.  However, it is only a course correction where scientific learning rigorously and uniquely generalizes statistics and statistical mechanics.
 
