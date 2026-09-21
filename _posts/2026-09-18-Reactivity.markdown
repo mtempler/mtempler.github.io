@@ -72,6 +72,7 @@ $$
 to provide exact expressions for the Active, Reactive and Apparent energies as a function of the measurable interaction momentum and probability, $$p_{AB}$$, from time-series.
 
 **Cooperation**
+
 Energy and current regulation are critical to electrical systems to ensure a stable and consistent supply of electrical power. By maintaining energy and current within specified ranges, we prevent energy and current fluctuations that can damage sensitive electronic equipment.
 <figure>
   <img src="/images/blog/SupplyDemandinSoC.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
