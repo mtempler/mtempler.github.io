@@ -8,10 +8,9 @@ tags: [Supply and Demand, Power Grid]
 image: img-04.jpg
 ---
 Over the past decade, the 19th century science-of-counting was resurrected to provide a combinatorial derivation of conventional Machine Learning that uniquely generalizes statistics to probability theory, allows energy to enter or exit the system, and processes any time-series to return a complete set of scientific (thermodynamic) measurements as deductive reality [1].    
+Conventional machine learning is effective in static, closed world applications, but does not accommodate changing environments, where energy can enter or exit, or, where energy is stored temporarily for later release.  Energy that enters or exits a system should also include emotional energy, as it is the principle and obvious source of human energy that can both affect the dynamics of counting and anticipate a need.  
 
-Conventional machine learning is effective in static, closed world applications, but cannot accommodate changing environments, where energy can enter or exit, or, where energy is stored for later release.  Energy that enters or exits a system should also permit emotional energy, as it is the principle and obvious source of human energy that can both affect dynamics and anticipate a need.  
-
-Scientific machine learning is the combinatorial science-of-counting evaluated on time-series that reduces correctly to statistics when there is no energy entering or exiting the system.  With a constructivist approach to generalized Machine Learning for time-series, we observe that "Machine" and "Artificial Intelligence" are too prominent in this case, because in the science-of-counting computers only do what they have done from their inception: evaluate built-in functions.  The conception and derivation of the scientific functions is human intelligence. In the science-of-counting "scientific machine learning" will be simplified to scientific learning.
+Scientific machine learning is the combinatorial science-of-counting evaluated on time-series that reduces correctly to statistics when there is no energy entering or exiting the system.  With a constructivist approach to generalized Machine Learning for time-series, we observe that "Machine" and "Artificial Intelligence" are too prominent in this presentation, because in the science-of-counting computers only do what they have done from their inception: evaluate built-in functions.  The conception and derivation of the scientific functions is human intelligence. In the science-of-counting "scientific machine learning" will be simplified to scientific learning.
 
 We see that the human mind (intuition, intellect and emotions) is a gift capable of deducing reality.  On the other hand, human invention is absent because what we know follows from deduction, and is free from human caprice.
 
@@ -62,7 +61,7 @@ the curve is the same but the axis labels $$x$$ and $$y$$ define a different pro
 
 **To Give and To Receive** 
 
-The introduction of money breaks the deductive structure of scientific learning, which we have worked hard to preserve. The moment we introduce currency, models are introduced, in this case, exchange rate models that convert money to displacement energy.  Expect every business process to have its own exchange rate: spend for a displacement energy.  Exchange rate models imply some degree of control through spend, from which we will manage supply and demand scientifically.
+The introduction of money breaks the deductive structure of scientific learning, which we have worked hard to preserve. The moment we introduce currency, models are introduced, in this case, exchange rate models that convert money to displacement energy.  Expect every business process to have its own exchange rate, the spend for a set displacement energy.  Exchange rate models imply some degree of control with the right spend, from which we manage supply and demand scientifically.
 
 Giving should meet both physical and spiritual needs, including instruction, counsel, comfort and forgiveness.  For St. Thomas Aquinas, giving and receiving are not merely economic or social acts.  They are moral, spiritual and relational realities that mirror the very life of God. 
 
