@@ -15,7 +15,7 @@ We focus on the electrical power grid precisely because it is a multi-faceted op
 
 With strain zero-ed out, humanity strayed from the deductive path and human invention was needed to make the system operational.  It was soon discovered that AC voltage regulation required the re-introduction of energy storage, in the form of imaginary values for power (reactivity) due to the introduction of capacitors and inductors.  In this blog we look at how reactivity emerges naturally from the full science-of-counting without turning to AC analyses.
 
-**Energy Storage** 
+**Energy Storage (Reactivity)** 
 
 The functions that define the relationship between energy, momentum and velocity, E=pv, are deduced in the science-of-counting. The same analysis is deductively extended to interactions as well.  A high-level picture of the interaction science is presented in the previous blog, and is reused here to better understand the production and distribution of electrical power. 
 
