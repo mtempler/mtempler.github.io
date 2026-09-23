@@ -72,7 +72,7 @@ to provide exact expressions for the Active, Reactive and Apparent energies as a
 **Cooperation**
 
 <figure>
-  <img src="/images/blog/CommDiagram.png" alt="CommDiagrams" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+  <img src="/images/blog/CommDiagram.png" alt="CommDiagrams" style="max-width: 90%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
     The first commutative diagram (left) is the application of the chain rule to calculate the expected value and expected strain when there is no energy entering or exiting the system (statistics or mechanics).  The second commutative diagram (right) is the commutative diagram when the system is open, written in terms of the eigenbasis.
   </figcaption>
