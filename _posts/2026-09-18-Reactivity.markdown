@@ -13,11 +13,11 @@ The first thing to note is that scientific measurements on time-series rarely be
 
 With strain zero-ed out, the 19th and 20th centuries strayed from the purely deductive path, and human invention took over to make the power grid operational.  It was discovered that AC voltage regulation required the re-introduction of energy storage (strain), expressed as imaginary values for power (reactivity) due to the introduction of reactive devices, capacitors and inductors.  In this blog post we look at how reactivity emerges naturally from the full science-of-counting with strain, without turning to AC analyses, and how cooperation between power source and power load can lead to successful energy regulation, and instrumentation for fault detection and self-healing. 
 
-**Energy Storage (Reactivity)** 
+**Strain and Energy Storage (Reactivity)** 
 
-The functions that define the relationship between energy, momentum and velocity, E=pv, are deduced in the science-of-counting. The same analysis is deductively extended to interactions as well.  A high-level picture of the interaction science is presented in the previous blog, and is reused here to better understand the production and distribution of electrical power. 
+The functions that define the relationship between energy, momentum and velocity, E=pv, are deduced in the science-of-counting. The same analysis is deductively extended to interactions as well.  A high-level picture of the interaction science is presented in the previous blog, and is restructured here to better understand the production and distribution of electrical power. 
 
-Given a time-series for the electrical energy supply (in units of MWh), $$n_A$$, there are natural coordinates (an eigenbasis) in scientific learning that define the Expected Supply, $$<\eta_s>$$, and its associated Expected Strain, $$<\xi_s>$$. Similarly, given a time-series for energy demand (in MWh), $$n_B$$, the Expected Demand, $$<\eta_d>$$, and its associated Expected Strain, $$<\xi_d>$$, are also defined.  The Lagrangian below enforces supply and demand measurements in units as constraints, $$\cal{L}_A$$ and $$\cal{L}_B$$, and moreover adds the constraints for interaction measurements, with the Lagrange multipliers $$\lambda_{AB}$$ and the $$\sigma_{AB}$$ terms below.
+Given a time-series for the electrical energy supply (in units of MWh), $$n_A$$, there are natural coordinates (an eigenbasis) in scientific learning that define the Expected Supply, $$<\eta_s>$$, and its associated Expected Strain, $$<\xi_s>$$. Similarly, given a time-series for energy demand (in MWh), $$n_B$$, the Expected Demand, $$<\eta_d>$$, and its associated Expected Strain, $$<\xi_d>$$, are also defined.  The Lagrangian below enforces supply and demand measurements in units as constraints, $$\cal{L}_A$$ and $$\cal{L}_B$$, and moreover adds the constraints for interaction measurements, with the Lagrange multipliers $$\lambda_{AB}$$ and the $$\sigma_{AB}$$ terms.
 {% raw %}
 $$
 \begin{align}
@@ -75,7 +75,7 @@ Energy and current regulation are critical to electrical systems to ensure a sta
 <figure>
   <img src="/images/blog/SupplyDemandinSoC.png" alt="SupplyDemandCircuit" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
-    The supply and demand circuit permits general displacement energy profiles, E, not restricted to either direct or alternating current. Each circuit component in this general setting can have resistance and store energy, and can interact with other components to produce an interactive energy and current.
+    The supply and demand circuit can have general displacement energy profiles, E, and is not restricted to direct or alternating currents. Each circuit component in this more general setting can have both resistance and store energy.  The power Source has terminals across which the Load can stretch.  Source and Load can interact to produce an interactive energy and current.
   </figcaption>
 </figure>
 
