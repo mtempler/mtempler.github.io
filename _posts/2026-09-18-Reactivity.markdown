@@ -9,7 +9,7 @@ image: img-04.jpg
 ---
 In a previous blog post we examined the science-of-counting in units of measure, and applied it to the design of non-equilibrium power grids.  In the science-of-counting the interaction between two time-series, say, source and load, is solvable and given by a planar cubic curve.  The conventional grid is built on a simplified science-of-counting (where average strain vanishes, at statistics).  The engineering assumption was valid when the generated power was known and stable, however, renewables invalidate the assumption.  Operational risk is reduced when there is some level of familiarity, so our focus continues on power grids.  Our objective is to clarify the cooperation needed between power source and power load to regulate energy, and to introduce scientific instrumentation to improve fault detection and self-healing of the network.
 
-The first thing to note is that scientific measurements on time-series rarely behave statistically, and that energy routinely enters and exits the system, so that the time-series is not mechanical.  However, it is only a course correction where scientific learning rigorously and uniquely generalizes statistics and statistical mechanics to open systems.  Even when the system is open, scientific learning is deductive, exact, and free from bias, and produces rigorous and familiar scientific measurements of state for time-series (time-stamps and counted values, to give energy, momentum, exact probability distributions, open expected value ($$<\eta>$$), open expected strain ($$<\xi>$$), and so on).
+The first thing to note is that scientific measurements on time-series rarely behave statistically, and that energy routinely enters and exits the system, so that the time-series is not mechanical.  However, it is only a course correction where scientific learning rigorously and uniquely generalizes statistics and statistical mechanics to open systems.  Even when the system is open, scientific learning is deductive, exact, and free from bias, and produces rigorous and familiar scientific measurements of state for time-series (time-stamps and counted values, to give energy, momentum, exact probability distributions, open expected value, open expected strain, $$(<\eta>,<\xi>$$), respectively, and so on).
 
 <figure>
   <img src="/images/blog/CommDiagram.png" alt="CommDiagrams" style="max-width: 90%; height: auto; display: block; margin: 0 auto;" />
@@ -21,7 +21,7 @@ where
 {% raw %}
 $$
 \begin{align}
-<\eta> = <n> - E\lambda <\xi>,\quad <\xi>=-\lambda<\eta> + E/p^2,
+<\eta> \,=\, <n> - E\lambda <\xi>,\quad <\xi> \,=\, -\lambda<\eta> + E/p^2,
 \end{align}
 $$
 {% endraw %}
