@@ -21,7 +21,7 @@ where
 {% raw %}
 $$
 \begin{align}
-<\eta> \,=\, <n> - E\lambda <\epsilon>,\quad <\xi> \,=\, -\lambda<\epsilon> + E/p^2 <n>,
+<\eta> \,=\, <n> - \,E\lambda <\epsilon>,\quad <\xi> \,=\, -\,\lambda<\epsilon> + \,E/p^2 <n>,
 \end{align}
 $$
 {% endraw %}
