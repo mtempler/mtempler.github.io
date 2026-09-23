@@ -9,7 +9,15 @@ image: img-04.jpg
 ---
 In a previous blog post we examined the science-of-counting in units of measure, and applied it to the design of non-equilibrium power grids.  In the science-of-counting the interaction between two time-series, say, source and load, is solvable and given by a planar cubic curve.  The conventional grid is built on a simplified science-of-counting (where average strain vanishes, at statistics).  The engineering assumption was valid when the generated power was known and stable, however, renewables invalidate the assumption.  Operational risk is reduced when there is some level of familiarity, so our focus continues on power grids.  Our objective is to clarify the cooperation needed between power source and power load to regulate energy, and to introduce scientific instrumentation to improve fault detection and self-healing of the network.
 
-The first thing to note is that scientific measurements on time-series rarely behave statistically, and that energy routinely enters and exits the system, so that the time-series is not mechanical.  However, it is only a course correction where scientific learning rigorously and uniquely generalizes statistics and statistical mechanics.  Scientific learning is deductive, exact, and free from bias, and is used to produce rigorous and familiar scientific measurements of state for time-series (time-stamps and counted values, to give energy, momentum, exact probability distributions, and so on).
+The first thing to note is that scientific measurements on time-series rarely behave statistically, and that energy routinely enters and exits the system, so that the time-series is not mechanical.  However, it is only a course correction where scientific learning rigorously and uniquely generalizes statistics and statistical mechanics to open systems.  Scientific learning is deductive, exact, and free from bias, and is used to produce rigorous and familiar scientific measurements of state for time-series (time-stamps and counted values, to give energy, momentum, exact probability distributions, and so on).
+
+<figure>
+  <img src="/images/blog/CommDiagram.png" alt="CommDiagrams" style="max-width: 90%; height: auto; display: block; margin: 0 auto;" />
+  <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
+    The first commutative diagram (left) is the application of the chain rule to calculate the expected value and expected strain when there is no energy entering or exiting the system (statistics or mechanics).  The second commutative diagram (right) is the commutative diagram when the system is open, written in terms of the eigenbasis.
+  </figcaption>
+</figure>
+
 
 With strain zero-ed out, the 19th and 20th centuries strayed from the purely deductive path, and human invention took over to make the power grid operational.  It was discovered that AC voltage regulation required the re-introduction of energy storage (strain), expressed as imaginary values for power (reactivity) due to the introduction of reactive devices, capacitors and inductors.  In this blog post we look at how reactivity emerges naturally from the full science-of-counting with strain, without turning to AC analyses, and how cooperation between power source and power load can lead to successful energy regulation, and instrumentation for fault detection and self-healing. 
 
@@ -70,13 +78,6 @@ $$
 to provide exact expressions for the Active, Reactive and Apparent energies as a function of the measurable interaction momentum and probability, $$p_{AB}$$, from time-series.
 
 **Cooperation**
-
-<figure>
-  <img src="/images/blog/CommDiagram.png" alt="CommDiagrams" style="max-width: 90%; height: auto; display: block; margin: 0 auto;" />
-  <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
-    The first commutative diagram (left) is the application of the chain rule to calculate the expected value and expected strain when there is no energy entering or exiting the system (statistics or mechanics).  The second commutative diagram (right) is the commutative diagram when the system is open, written in terms of the eigenbasis.
-  </figcaption>
-</figure>
 
 The purpose of an electrical power system, consisting of a power source and a load (see figure), is to ensure a stable and consistent supply of electrical power, maintained within specified ranges, to prevent fluctuations that can damage sensitive electronic equipment.
 
