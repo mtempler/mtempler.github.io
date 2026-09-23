@@ -71,7 +71,8 @@ to provide exact expressions for the Active, Reactive and Apparent energies as a
 
 **Cooperation**
 
-Energy and current regulation are critical to electrical systems to ensure a stable and consistent supply of electrical power. By maintaining energy and current within specified ranges, we prevent energy and current fluctuations that can damage sensitive electronic equipment.
+The purpose of an electrical power system, consisting of a power source and a load (see figure), is to ensure a stable and consistent supply of electrical power, maintained within specified ranges, to prevent fluctuations that can damage sensitive electronic equipment.
+
 <figure>
   <img src="/images/blog/SupplyDemandinSoC.png" alt="SupplyDemandCircuit" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
