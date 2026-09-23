@@ -27,6 +27,7 @@ $$
 {% endraw %}
 which reduces to the statistical measurements when $$E=0$$.
 
+
 With strain zero-ed out, the 19th and 20th centuries strayed from a purely deductive path, and human invention took over to make the power grid operational.  It was discovered that AC voltage regulation required the re-introduction of energy storage (strain), expressed as imaginary values for power (reactivity) due to the introduction of reactive devices, capacitors and inductors.  In this blog post we look at how reactivity emerges naturally from the full science-of-counting with strain, without turning to AC analyses, and how cooperation between power source and power load can lead to successful energy regulation, and instrumentation for fault detection and self-healing. 
 
 **Strain and Energy Storage (Reactivity)** 
