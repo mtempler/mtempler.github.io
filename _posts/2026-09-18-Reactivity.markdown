@@ -12,7 +12,7 @@ In a previous blog post we examined the science-of-counting in units of measure,
 The first thing to note is that scientific measurements on time-series rarely behave statistically, and that energy routinely enters and exits the system, so that the time-series is not mechanical.  However, it is only a course correction where scientific learning rigorously and uniquely generalizes statistics and statistical mechanics to open systems.  Even when the system is open, scientific learning is deductive, exact, and free from bias, and produces rigorous and familiar scientific measurements of state for time-series (time-stamps and counted values, to give energy, momentum, exact probability distributions, open expected value, open expected strain, $$(<\eta>,<\xi>$$), respectively, and so on).
 
 <figure>
-  <img src="/images/blog/CommDiagram.png" alt="CommDiagrams" style="max-width: 90%; height: auto; display: block; margin: 0 auto;" />
+  <img src="/images/blog/CommDiagram.png" alt="CommDiagrams" style="max-width: 80%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
     The first commutative diagram (left) is the application of the chain rule to calculate the expected value and expected strain when there is no energy entering or exiting the system (statistics or mechanics).  The second commutative diagram (right) is the commutative diagram when the system is open, written in terms of the eigenbasis.
   </figcaption>
