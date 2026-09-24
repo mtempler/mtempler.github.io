@@ -70,7 +70,7 @@ that map to the $$p_{AB}$ solutions. The solution space for scientific learning 
 <figure>
   <img src="/images/blog/p_AB_interaction.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
-    The interaction momentum and probability (y-axis) is an inverted parabola with zeros at x = 0 and 1, and peak at x = 1/2 and y = 1/4. When interaction coupling is repulsive, energy entering the system does compression work, and can store and release energy.  Correspondingly, when interaction coupling is attractive, energy entering the system does extension work, and can also store and release energy.  When the interaction momentum is greater than 1/4 the interaction velocity acquires a complex component that corresponds to oscillations in strain that can be measured.
+    The interaction momentum and probability (y-axis) is an inverted parabola with zeros at x = 0 and 1, and peak at x = 1/2 and y = 1/4. When interaction coupling is repulsive, energy entering the system does compression work, and stores and releases energy.  Correspondingly, when interaction coupling is attractive, energy entering the system does extension work, and also stores and releases energy.  When the interaction momentum is greater than 1/4 the interaction velocity acquires a complex component, which is expected in inelastic scattering and called delocalization.  Scattering is delocalized when the range of the interaction is greater than the unit of measure in the science-of-counting, to produce a fundamental limit on the resolution of the inelastic scattering signal.
   </figcaption>
 </figure>
 
