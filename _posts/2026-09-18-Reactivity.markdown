@@ -9,11 +9,19 @@ image: img-04.jpg
 ---
 In a previous blog post we examined the science-of-counting in units of measure, and applied it to the design of non-equilibrium power grids.  In the science-of-counting the interaction between two time-series, say, source and load, is solvable and given by a planar cubic curve.  The conventional grid is built on a simplified science-of-counting (where average strain vanishes, at statistics).  The engineering assumption was valid when the generated power was known and stable, however, renewable energies invalidate the assumption.  Since operational risk is reduced when there is some familiarity, our focus continues on non-equilibrium power grids.  Our objective is to clarify the cooperation needed between power source and power load to regulate energy, and to introduce scientific instrumentation to improve fault detection and self-healing of the network.
 
-The first thing to note is that scientific measurements on time-series rarely behave statistically, and that energy routinely enters and exits the system, so that the time-series is not mechanical.  However, it is only a course correction where scientific learning rigorously and uniquely generalizes statistics and statistical mechanics to open systems.  Even when the system is open, scientific learning is deductive, exact, and free from bias, and produces rigorous and familiar scientific measurements of state for time-series (time-stamps and counted values, to give energy, momentum, exact probability distributions, open expected value, open expected strain, ($$<\eta>,<\xi>$$), respectively, and so on).  The commutative diagrams below provide the book-keeping,
+The first thing to note is that scientific measurements on time-series rarely behave statistically, and that energy routinely enters and exits the system, so that the time-series is not mechanical.  However, it is only a course correction where scientific learning rigorously and uniquely generalizes statistics and statistical mechanics to open systems.  Even when the system is open, scientific learning is deductive, exact, and free from bias, and produces rigorous and familiar scientific measurements of state for time-series (time-stamps and counted values, to give energy, momentum, exact probability distributions, open expected value, open expected strain, and so on).  
+
+With expected strain zero-ed out, the 19th and 20th centuries strayed from a purely deductive path, and human invention was needed to make the power grid operational.  It was discovered that AC voltage regulation required the re-introduction of energy storage (strain), expressed as imaginary values for power (reactivity) due to the introduction of reactive devices, capacitors and inductors.  In this blog post we look at how reactivity emerges naturally from the full science-of-counting with strain, without turning to AC analyses, and how cooperation between power source and power load can lead to successful energy regulation, and instrumentation for fault detection and self-healing. 
+
+**Strain and Energy Storage (Reactivity)** 
+
+The functions that define the relationship between energy, momentum and velocity, $$E=pv$$, are deduced in the science-of-counting, as the same analysis is deductively extended to interactions.  A high-level picture of the interaction science is presented in the previous blog, and is restructured here to better understand the production and distribution of electrical power. 
+
+The commutative diagrams below provide a way to organize the scientific calculations. 
 <figure>
   <img src="/images/blog/CommDiagram.png" alt="CommDiagrams" style="max-width: 85%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
-    The first commutative diagram (left) is the application of the chain rule to calculate the expected value and expected strain when there is no energy entering or exiting the system (statistics or mechanics).  The second commutative diagram (right) is the commutative diagram when the system is open, written in terms of the eigenbasis.
+    The first commutative diagram (left) is the application of the chain rule to calculate the expected value and expected strain when there is no energy entering or exiting the system (statistics or mechanics).  The second commutative diagram (right) is the chain rule when the system is open, written in terms of the supply and demand eigenbasis.
   </figcaption>
 </figure>
 where
@@ -26,14 +34,7 @@ $$
 {% endraw %}
 which reduces to the statistical measurements when $$E=0$$.
 
-
-With strain zero-ed out, the 19th and 20th centuries strayed from a purely deductive path, and human invention took over to make the power grid operational.  It was discovered that AC voltage regulation required the re-introduction of energy storage (strain), expressed as imaginary values for power (reactivity) due to the introduction of reactive devices, capacitors and inductors.  In this blog post we look at how reactivity emerges naturally from the full science-of-counting with strain, without turning to AC analyses, and how cooperation between power source and power load can lead to successful energy regulation, and instrumentation for fault detection and self-healing. 
-
-**Strain and Energy Storage (Reactivity)** 
-
-The functions that define the relationship between energy, momentum and velocity, E=pv, are deduced in the science-of-counting. The same analysis is deductively extended to interactions.  A high-level picture of the interaction science is presented in the previous blog, and is restructured here to better understand the production and distribution of electrical power. 
-
-Given a time-series for the electrical energy supply (in units of MWh), $$n_A$$, there are natural coordinates (an eigenbasis) in scientific learning that define the Expected Supply, $$<\eta_s>$$, and its associated Expected Strain, $$<\xi_s>$$. Similarly, given a time-series for energy demand (in MWh), $$n_B$$, the Expected Demand, $$<\eta_d>$$, and its associated Expected Strain, $$<\xi_d>$$, are also defined.  The Lagrangian below enforces supply and demand measurements in units as constraints, $$\cal{L}_A$$ and $$\cal{L}_B$$, and moreover adds the constraints for interaction measurements, with the Lagrange multipliers $$\lambda_{AB}$$ and the $$\sigma_{AB}$$ terms.
+Given a time-series for the electrical energy supply (in units of MWh), $$n_A$$, the Expected Supply, $$<\eta_s>$$, and its associated Expected Strain, $$<\xi_s>$$, can be measured. Similarly, given a time-series for energy demand (in MWh), $$n_B$$, the Expected Demand, $$<\eta_d>$$, and its associated Expected Strain, $$<\xi_d>$$, can also be measured.  The Lagrangian below enforces supply and demand measurements in units as constraints, $$\cal{L}_A$$ and $$\cal{L}_B$$, and, in addition, enforces the constraints for interaction measurements, with the Lagrange multipliers $$\lambda_{AB}$$ and the $$\sigma_{AB}$$ terms below.
 {% raw %}
 $$
 \begin{align}
@@ -61,11 +62,11 @@ The joint momentum, $$p_{AB}$$, has already been normalized, so that $$1\ge p_{A
 {% raw %}
 $$
 \begin{align}
-\Lambda = \frac{1}{2} \pm i\sqrt{p_{AB} - \frac{1}{4}}.
+\Lambda = \frac{1}{2} \pm i\sqrt{p_{AB} - \frac{1}{4}},
 \end{align}
 $$
 {% endraw %}
-The solution space for scientific learning is presented in the plot below.
+that map to the $$p_{AB}$ solutions. The solution space for scientific learning is summarized in the plot below.
 <figure>
   <img src="/images/blog/p_AB_interaction.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
