@@ -15,13 +15,13 @@ With expected strain zero-ed out, the 19th and 20th centuries strayed from a pur
 
 **Strain and Energy Storage (Reactivity)** 
 
-The functions that define the relationship between energy, momentum and velocity, $$E=pv$$, are deduced in the science-of-counting, as the same analysis is deductively extended to interactions.  A high-level picture of the interaction science is presented in the previous blog, and is restructured here to better understand the production and distribution of electrical power. 
+The functions that define the relationship between energy, momentum and velocity, $$E=pv$$, are deduced in the science-of-counting, and the same deductive analysis is extended to interactions.  A high-level picture of the interaction between probabilities is given by a cubic polynomial, which is restructured in this blog to better understand the production and distribution of electrical power. 
 
-The commutative diagrams below provide a way to organize the scientific calculations. 
+The commutative diagrams below organize the scientific calculations. 
 <figure>
   <img src="/images/blog/CommDiagram.png" alt="CommDiagrams" style="max-width: 85%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
-    The first commutative diagram (left) is the application of the chain rule to calculate the expected value and expected strain when there is no energy entering or exiting the system (statistics or mechanics).  The second commutative diagram (right) is the chain rule when the system is open, written in terms of the supply and demand eigenbasis.
+    The first commutative diagram (left) is the application of the chain rule to calculate the expected value and expected strain in fixed coordinates.  The second commutative diagram (right) is the chain rule when the system is written in the adaptive coordinates for supply and demand (the eigenbasis).
   </figcaption>
 </figure>
 where
@@ -32,9 +32,9 @@ $$
 \end{align}
 $$
 {% endraw %}
-which reduces to the statistical measurements when $$E=0$$.
+which reduces to the statistics when $$E=0$$.
 
-Given a time-series for the electrical energy supply (in units of MWh), $$n_A$$, the Expected Supply, $$<\eta_s>$$, and its associated Expected Strain, $$<\xi_s>$$, can be measured. Similarly, given a time-series for energy demand (in MWh), $$n_B$$, the Expected Demand, $$<\eta_d>$$, and its associated Expected Strain, $$<\xi_d>$$, can also be measured.  The Lagrangian below enforces supply and demand measurements in units as constraints, $$\cal{L}_A$$ and $$\cal{L}_B$$, and, in addition, enforces the constraints for interaction measurements, with the Lagrange multipliers $$\lambda_{AB}$$ and the $$\sigma_{AB}$$ terms below.
+Given a time-series for the electrical energy supply (in units of MWh), $$n_A$$, the Expected Supply, $$<\eta_s>$$, and its associated Expected Strain, $$<\xi_s>$$, can both be measured. Similarly, given a time-series for energy demand (in MWh), $$n_B$$, the Expected Demand, $$<\eta_d>$$, and its associated Expected Strain, $$<\xi_d>$$, can also be measured.  The Lagrangian below enforces supply and demand measurements in units as constraints, $$\cal{L}_A$$ and $$\cal{L}_B$$, and, in addition, enforces the constraints for interaction measurements, with the Lagrange multipliers $$\lambda_{AB}$$ and the $$\sigma_{AB}$$ terms below.
 {% raw %}
 $$
 \begin{align}
