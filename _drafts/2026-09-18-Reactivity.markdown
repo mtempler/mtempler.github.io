@@ -13,7 +13,7 @@ The first thing to note is that scientific measurements on time-series rarely be
 
 With expected strain zero-ed out, the 19th and 20th centuries strayed from a purely deductive path, and human invention was needed to make the power grid operational.  It was discovered that AC voltage regulation required the re-introduction of energy storage (strain), expressed as imaginary values for power (reactivity) due to the introduction of reactive devices, capacitors and inductors.  In this blog post we look at how reactivity emerges naturally from the full science-of-counting with strain, without turning to AC analyses, and how cooperation between power source and power load can lead to successful energy regulation, and instrumentation for fault detection and self-healing. 
 
-**Strain and Energy Storage (Reactivity)** 
+**Energy Storage (Strain)** 
 
 The functions that define the relationship between energy, momentum and velocity, $$E=pv$$, are deduced in the science-of-counting, and the same deductive analysis is extended to interactions.  A high-level picture of the interaction between probabilities is given by a cubic polynomial, which is restructured in this blog to better understand the production and distribution of electrical power. 
 
@@ -50,7 +50,7 @@ $$
 \end{align}
 $$
 {% endraw %}
-relating direct and joint probabilities, and an obvious notational simplification.  The science-of-counting derives the interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, which relates direct and joint probabilities of time-series and that is quadratic in $$\Lambda$$ to produce solutions
+relating direct and joint probabilities, and an obvious notational simplification.  The science-of-counting derives the cubic interaction curve, $$p_{AB}^2 = p_A p_B(1 - p_A p_B/p_{AB})$$, which relates direct and joint probabilities of time-series, and that is quadratic in $$\Lambda$$ to produce solutions
 {% raw %}
 $$
 \begin{align}
@@ -66,11 +66,11 @@ $$
 \end{align}
 $$
 {% endraw %}
-that map to the $$p_{AB}$ solutions. The solution space for scientific learning is summarized in the plot below.
+that map to the $p_{AB}$ solutions. The solution space for scientific learning is summarized in the plot below.
 <figure>
   <img src="/images/blog/p_AB_interaction.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
-    The interaction momentum and probability (y-axis) is an inverted parabola with zeros at x = 0 and 1, and peak at x = 1/2 and y = 1/4. When interaction coupling is repulsive, energy entering the system does compression work, and stores and releases energy.  Correspondingly, when interaction coupling is attractive, energy entering the system does extension work, and also stores and releases energy.  When the interaction momentum is greater than 1/4 the interaction velocity acquires a complex component, which is expected in inelastic scattering and called delocalization.  Scattering is delocalized when the range of the interaction is greater than the unit of measure in the science-of-counting, to produce a fundamental limit on the resolution of the inelastic scattering signal.
+    The interaction momentum and probability (y-axis) is an inverted parabola with zeros at x = 0 and 1, and peak at x = 1/2 and y = 1/4. When interaction coupling is repulsive, energy entering the system does compression work, and can store and release energy.  Correspondingly, when interaction coupling is attractive, energy entering the system does extension work, and can also store and release energy.  When the interaction momentum is greater than 1/4 the interaction velocity acquires a complex component that corresponds to oscillations in strain that can be measured.
   </figcaption>
 </figure>
 
