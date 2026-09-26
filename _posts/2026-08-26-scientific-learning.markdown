@@ -38,12 +38,12 @@ $$
 \end{align}
 $$
 {% endraw %}  
-See the interaction diagram and coupling curve below.
+Since energy can enter and exit, the interaction diagram and coupling curve are for inelastic scattering.
 
 <figure>
   <img src="/images/blog/InteractionSoC.png" alt="Interaction Probabilities" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
   <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 8px;">
-    Analytical Interactions in the Science of Giving and Receiving.  The top figure summarizes how the direct, conditional and joint momenta/probabilities are related and are used to detect interactions at a given time-stamp.  The cubic coupling curve is also plotted.  The diagonal reports independence, and the cubic curves above and below the diagonal correspond to attractive and repulsive combinatorial forces, and to perform work, extension and compression, respectively.
+    Analytical Interactions in the Science of Giving and Receiving.  The top figure summarizes how the direct, conditional and joint momenta/probabilities are related and are used to detect interactions at a given time-stamp.  The cubic coupling curve is also plotted.  The diagonal records independence, and the cubic curves above and below the diagonal correspond to attractive and repulsive combinatorial forces, and to perform work, extension and compression, respectively.
   </figcaption>
 </figure>
 
