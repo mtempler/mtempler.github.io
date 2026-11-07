@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Give and Receive at Scale: Scientific Learning"
+title: "Give and Get at Scale: Scientific Learning"
 tagline: Single Page
 date: 2026-08-12 13:23
-categories: [Machine Learning, Giving-Receiving ]
+categories: [Machine Learning, Give-Get ]
 tags: [Supply and Demand, Power Grid]
 image: img-04.jpg
 ---
@@ -59,11 +59,10 @@ $$
 the curve is the same but the axis labels $$x$$ and $$y$$ define a different problem: forward and backward scattering, supply needed for demand, demand needed for supply, respectively. Thus providing several opportunities for deterministic control of the system.
 
 
-**To Give and To Receive** 
+**To Give and To Get** 
 
 The introduction of money breaks the deductive structure of scientific learning, which we have worked hard to preserve. The moment we introduce currency, models are introduced, in this case, exchange rate models that convert money to displacement energy.  Expect every business process to have its own exchange rate, the spend for a set displacement energy.  Exchange rate models imply some degree of control with the right spend, from which we manage supply and demand scientifically.
 
-Giving should meet both physical and spiritual needs, including instruction, counsel, comfort and forgiveness.  For St. Thomas Aquinas, giving and receiving are not merely economic or social acts.  They are moral, spiritual and relational realities that mirror the very life of God. 
 
 
 
